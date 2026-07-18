@@ -54,10 +54,16 @@ humor move. Never the whole field at once.
 | calm, equilibrium, stillness, contentment | **Calm** | [`families/calm`](families/calm/CONTEXT_GRAPH.md) |
 | collective power, solidarity, systems, "we" | **Solidarity** | [`families/solidarity`](families/solidarity/CONTEXT_GRAPH.md) |
 | composure under pressure, the cost of holding it together | **Held-Tension** | [`families/held-tension`](families/held-tension/CONTEXT_GRAPH.md) |
+| the feeling has a color, texture, temperature; synesthesia | **Senses** | [`families/senses`](families/senses/CONTEXT_GRAPH.md) |
+| weight, breath, contact, coming back into the body | **Body-Awareness** | [`families/body-awareness`](families/body-awareness/CONTEXT_GRAPH.md) |
+
+> **Dual nodes.** Held-Tension, Senses, and Body-Awareness are full families *and*
+> cross-cutting attachers — they usually **modulate** another feeling (bracing it,
+> coloring it, grounding it) and can be **dominant** when the beat is about that
+> thing itself. Their attacher side is summarized in [`body/`](body/CONTEXT_GRAPH.md).
 
 > **The roster is a living index.** Adding a family = add a folder in `families/`,
-> fill the [Spine template](SPINE_TEMPLATE.md), and add a row here. Body/sensory
-> attachers that braid into *any* family live in [`body/`](body).
+> fill the [Spine template](SPINE_TEMPLATE.md), and add a row here.
 
 ---
 

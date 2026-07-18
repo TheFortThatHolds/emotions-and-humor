@@ -55,7 +55,7 @@ Start at [`CONTEXT_GRAPH.md`](CONTEXT_GRAPH.md). Everything routes from there.
 | Path | What it is |
 |------|-----------|
 | `CONTEXT_GRAPH.md` | The router. Map of maps: procedure + braid law + edge tables. |
-| `families/` | One map per emotion. Each is a *filled-in Spine* (a graph node). |
+| `families/` | 12 maps — one per emotion. Each is a *filled-in Spine* (a graph node). |
 | `humor/` | The humor types + which emotion each one partners. |
 | `body/` | Somatic attachers — the body a feeling lives in. Braids into any family. |
 | `craft/` | Production specialists (tempo, silence). Adapter-side, optional. |

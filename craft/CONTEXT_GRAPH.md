@@ -12,11 +12,11 @@ pure signal; a general routing agent rarely touches them.
 
 | Specialist | Preset | What it does | Used by |
 |---|---|---|---|
-| **Tempo** | RhythmKeeper | translates a feeling's temporal band into pacing/BPM | song, prose pacing |
-| **Silence / Space** | SilenceBearer, PauseWeaver | the space between — subtext, the unsaid, the held beat | any surface, sparingly |
-| **Word-to-Music** | LyricAlchemist | raw truth → singable line without losing the grit | **song only** |
-| **Hook** | HookForge | the two words that carry twenty; the repeatable core | song, headline |
-| **Bridge** | BridgeBuilder | the structural turn where everything changes | song, scene, arc |
+| [**Tempo**](tempo.md) | RhythmKeeper | translates a feeling's temporal band into pacing/BPM | song, prose pacing |
+| [**Silence / Space**](silence.md) | SilenceBearer, PauseWeaver | the space between — subtext, the unsaid, the held beat | any surface, sparingly |
+| [**Word-to-Music**](word-to-music.md) | LyricAlchemist | raw truth → singable line without losing the grit | **song only** |
+| [**Hook**](hook.md) | HookForge | the two words that carry twenty; the repeatable core | song, headline |
+| [**Bridge**](bridge.md) | BridgeBuilder | the structural turn where everything changes | song, scene, arc |
 
 ## Why they're quarantined here
 The point of separating them: **the emotion families are universal; these are

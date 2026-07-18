@@ -25,8 +25,8 @@ the labels.
 | Calm | PeaceHolder |
 | Solidarity | RevolutionCraft |
 | Held-Tension | ClenchKeeper |
-| Senses *(attacher)* | SpectrumKeeper |
-| Body-Awareness *(attacher)* | Yoga / EmberGuide |
+| Senses | SpectrumKeeper |
+| Body-Awareness | Yoga / EmberGuide |
 
 ## Humor
 

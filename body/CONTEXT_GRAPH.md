@@ -10,8 +10,11 @@ braid into *any* family to answer "where is it, and is it held or released?" The
 router's rule: **body is never optional and never stock.** "Chest tightened" for
 everything is a false note. Locate it.
 
-Held-Tension is also a full family (it can be dominant) — [`families/held-tension`](../families/held-tension/CONTEXT_GRAPH.md).
-Here it is listed as the attacher it also is.
+Three of these are also **full families** (they can be dominant, not only attach) —
+[`held-tension`](../families/held-tension/CONTEXT_GRAPH.md),
+[`senses`](../families/senses/CONTEXT_GRAPH.md), and
+[`body-awareness`](../families/body-awareness/CONTEXT_GRAPH.md). Here they are listed
+as the attachers they also are.
 
 | Attacher | Preset | What it answers | Attach when |
 |---|---|---|---|
