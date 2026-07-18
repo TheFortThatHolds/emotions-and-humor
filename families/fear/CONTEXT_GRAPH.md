@@ -43,6 +43,13 @@ scared I am," or "I've been vigilant so long I don't know who I'd be if I put it
 - **+ Love:** the fear that is *for* someone — dread with a name attached
 - **+ Anger:** anger as the braver face of dread — heat is easier to wear than the
   tremble underneath it
+- **+ Self-Compassion:** the gentleness that lets courage happen — kindness as the
+  ground you step from
+- **+ Excitement:** anticipation and dread sharing one body — the thing you want
+  could still go wrong
+- **+ Held-Tension:** dread held behind a calm, even face — the fear that can't show
+- **+ Senses:** the dark-hours palette — everything too-sharp, too-loud, too-close
+- **+ Body-Awareness:** breath as the regulation that lets courage happen
 
 ## Refuse
 - fear that's just cowardice-cliché — the cringing coward stock note; real fear moves

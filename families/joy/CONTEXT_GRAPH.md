@@ -43,6 +43,9 @@ isn't joy; it's decoration.
 - **+ Grief:** the funeral that remembers the laugh; delight and loss in one breath
 - **+ Love:** shared delight — joy doubled by being witnessed, the held glance
 - **+ Excitement:** joy building toward more — the win that opens onto the next want
+- **+ Calm:** contentment tipping up into gladness — enough becoming delight
+- **+ Solidarity:** collective celebration — the win that belongs to the whole room
+- **+ Senses:** golden — bright overtones, the world lit warm
 
 ## Refuse
 - manic/hollow joy with nothing under it — brightness with no occasion, a grin

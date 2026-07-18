@@ -40,6 +40,7 @@ was wrong, and I am the one who saw it.* The 4 AM version is rarely "I'm mad" �
 - **+ Grief:** "furious at you for making me miss you"
 - **+ Solidarity:** private injury becoming collective power
 - **+ Fear:** anger as the braver face of dread
+- **+ Held-Tension:** rage swallowed to keep the job — heat held behind a still face
 
 ## Refuse
 - rage that collapses into self-attack — that's the old wound wearing anger's coat

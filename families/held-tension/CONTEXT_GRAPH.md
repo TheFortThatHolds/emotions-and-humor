@@ -44,6 +44,7 @@ performance together where every other muscle is already on display.
 - **+ Grief:** grief that can't release because someone is in the room
 - **+ Fear:** dread held behind a calm, even face
 - **+ Anger:** rage swallowed to keep the job — held heat with nowhere to go
+- **+ Body-Awareness:** the release *out of* the clench — the opposite it finally meets
 
 ## Refuse
 - dramatizing the release as a breakdown — it's a body finally *allowed*, not a collapse

@@ -42,6 +42,8 @@ most damage."
 - **+ Joy:** shared delight — the laugh that's better because it's witnessed
 - **+ Fear:** the joking and the protectiveness that is *for* the other person — dread
   pointed outward, worn as care
+- **+ Excitement:** eagerness pointed at someone — the lean-in toward them
+- **+ Calm:** the quiet where nothing needs saying — love with no words required
 
 ## Refuse
 - greeting-card romance that isn't costed — love with no exposure or risk in it isn't love

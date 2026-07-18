@@ -41,6 +41,10 @@ land," or "I'm afraid that if I stop hurting I'll lose the last of them."
 - **+ Joy:** the funeral that remembers the laugh; grief and delight in one breath
 - **+ Love:** tenderness sharpened by the fact that it ends
 - **+ Held-Tension:** grief that can't release because someone is in the room
+- **+ Self-Compassion:** self-kindness that holds the loss without rushing it to meaning
+- **+ Calm:** the after — grief settling into the quiet that becomes bearable again
+- **+ Solidarity:** grief made collective — the room that mourns together
+- **+ Senses:** the specific gray the world drains to when someone is gone
 
 ## Refuse
 - performance-grief — the operatic weeping that arrives before the reader has

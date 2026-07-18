@@ -43,6 +43,7 @@ plenty.
 - **+ Love:** the quiet where nothing needs saying — two people, no words required
 - **+ Grief:** the calm after the crying — the after, the ordinary that becomes bearable again
 - **+ Joy:** contentment shading up toward delight — enough tipping into gladness
+- **+ Body-Awareness:** grounding into the body — weight down, breath long, fully here
 
 ## Refuse
 - calm as flatness, as a gap before the real scene — the stillness *is* the content,
