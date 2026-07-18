@@ -112,3 +112,12 @@ Return (in your own words, on your own surface):
   map warns against
 
 See [`examples/`](examples/BRAIDS.md) for the contract worked end to end.
+
+---
+
+## Machine view
+
+If you would rather load structured data than walk these maps, read
+[`graph.json`](graph.json) — the same nodes, degrees, humor partners, and braids
+(with both-side glosses), generated from these files and verified to match them. The
+markdown is still the source of truth; `graph.json` is a projection of it.

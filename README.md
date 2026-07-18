@@ -63,6 +63,31 @@ Start at [`CONTEXT_GRAPH.md`](CONTEXT_GRAPH.md). Everything routes from there.
 | `presets/songcraft/` | The original expressive names, as an optional skin. |
 | `adapters/` | How specific surfaces (prose, song) consume the graph. |
 | `SPINE_TEMPLATE.md` | The shape every family map follows. |
+| `graph.json` | Machine projection of the whole graph — load this instead of walking markdown. |
+| `viz/index.html` | Human picture — a self-contained force-directed view (open in a browser). |
+| `tools/build_graph.py` | Regenerates `graph.json` + the viz from the maps; fails if they'd disagree. |
+
+---
+
+## Three views, one source
+
+The **markdown maps** in `families/` are the source of truth and the agent's entry
+point. Two projections are generated from them by `tools/build_graph.py`:
+
+- **`graph.json`** — the machine view. A foreign agent can load this instead of
+  parsing markdown; it carries every node, degree, humor partner, and braid (with
+  the gloss from *both* sides).
+- **`viz/index.html`** — the human view. A dependency-free, offline force-directed
+  picture (drag nodes, click a feeling to read its braids).
+
+The build script **verifies the projection agrees with the maps** — same edges, fully
+symmetric — and exits non-zero if it doesn't. So the picture a human sees and the data
+an agent loads can never drift from the router the AI voice actually reads. Re-run it
+after editing any family map:
+
+```
+python3 tools/build_graph.py
+```
 
 ---
 
