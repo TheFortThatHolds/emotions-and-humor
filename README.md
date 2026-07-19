@@ -11,6 +11,35 @@ agent walks it.
 
 ---
 
+## One person's map, not the map
+
+**This is not comprehensive, and it is not universal.** It is built from one
+person's lived experience — one body, one nervous system, one culture, one life of
+felt emotion (Jimmy Thornburg's, through the SongCraft voice-family system). The
+families, the colors, the somatic seats, the humor moves are **his** map of the
+territory, not the territory itself.
+
+That has consequences you should carry into whatever you build:
+
+- **Emotion is cultural and personal.** Where a feeling sits in the body, what color
+  it wears, which feelings braid together — these vary across people and cultures. The
+  cross-cultural research cited in [`COLOR_SPINE.md`](COLOR_SPINE.md) is *support*, not
+  proof of universality; even at its strongest it measured ~88% agreement, which means
+  real, meaningful variation is the other ~12%.
+- **The basis is open, not closed.** The 13 families are a *starting* weighting basis,
+  not a finished taxonomy of human feeling. Names, edges, and whole families can be
+  added, split, or re-weighted for a different person, register, or culture. If it
+  doesn't fit the human you're serving, **change it** — that's the design, not a misuse.
+- **Use it as a discipline, not a verdict.** It teaches your agent to *look for* depth,
+  stacks, and superposition instead of flattening. It does not license your agent to
+  tell a real person what they feel or where they feel it. Route with it; don't
+  diagnose with it.
+
+Treat it as a well-worn instrument someone hands you, still warm from their hands —
+useful precisely *because* it's specific, and yours to re-tune.
+
+---
+
 ## Who this is for
 
 Your agent. Not you.
