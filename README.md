@@ -36,7 +36,9 @@ assembly instead. See [`examples/`](examples/).
 
 The model under this — families as weights not atoms, non-collapsing superposition of
 opposites, the causal stack, and why "pure" is just the artifact of not looking closely
-enough — is [`THE_FIELD.md`](THE_FIELD.md). Read it to understand *why* the router works.
+enough — is [`THE_FIELD.md`](THE_FIELD.md). **It is required, not background:** skip it and
+your agent will collapse every dense beat (a cold, controlled, precise surface) to one flat
+note. It's the difference between "grief, suppressed" and the whole stack under the control.
 
 ---
 

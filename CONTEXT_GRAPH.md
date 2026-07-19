@@ -16,12 +16,14 @@ There is no top tier of "pure" emotions above "lesser" modifiers. **Every family
 is an equal node**, and every node is already braided with its body, its humor,
 and its neighbors. You never grab one clean feeling — you assemble.
 
-> **Read [`THE_FIELD.md`](THE_FIELD.md) first if you want the model under all of this:**
-> the families are a *weighting basis*, not atoms; routing is setting weights over the
-> whole field (the same gate a voice-engine uses on register); opposing weights
-> superpose without cancelling; they stack in a causal lock; and a "pure emotion" is the
-> **collapse artifact of shallow looking** — look truly and the field doesn't collapse.
-> The law that falls out: route the field, never the note, and never *announce* the mix.
+> **[`THE_FIELD.md`](THE_FIELD.md) is REQUIRED reading — it is the model this procedure runs
+> on, not optional depth.** The families are a *weighting basis*, not atoms; routing is
+> setting weights over the whole field (the same gate a voice-engine uses on register);
+> opposing weights superpose without cancelling; they stack in a causal lock
+> (control←rage←fear←wound); and a "pure emotion" is the **collapse artifact of shallow
+> looking** — look truly and the field doesn't collapse. **Skip it and you will collapse
+> every dense beat to one note.** The law: route the field, never the note; hold opposing
+> weights, don't resolve them; and never *announce* the mix.
 
 ---
 
@@ -29,6 +31,13 @@ and its neighbors. You never grab one clean feeling — you assemble.
 
 Run this for any beat, line, situation, or state you need to render with feeling.
 
+0. **Look truly — do not collapse.** Your first instinct will be to reduce the beat to one
+   clean feeling ("she's angry," "he's sad," "grief, suppressed"). **That is the bug**
+   (THE_FIELD §5–6). A cold, controlled, or precise surface is the *densest* state, not the
+   emptiest — the most weight held under the tightest lock. Before you route, trace the
+   **stack** under the surface: what is the lock (control/composure) holding down — rage?
+   what is that armor over — fear? what is at the bottom — the wound? Route the whole lit
+   field, not the label.
 1. **Find the dominant family.** Read the beat for its strongest felt territory.
    Open that map in [`families/`](families/). (Use the routing table below.)
 2. **Add modulators (≤2).** What else is present *under* the dominant? Open those
@@ -43,7 +52,10 @@ Run this for any beat, line, situation, or state you need to render with feeling
    map names.
 
 **The braid law:** one dominant family + **≤2** modulators + its body + at most one
-humor move. Never the whole field at once.
+humor move — **this cap governs the RENDERED braid.** The causal **stack** (Step 0 /
+THE_FIELD §4) is the *diagnostic you route from* and runs deeper: trace it all the way to
+the wound, then render the top. Routing the stack is NOT naming five families in the output —
+it means the ≤2 you render are visibly carrying the weight of the ones beneath them.
 
 ---
 
@@ -68,6 +80,14 @@ humor move. Never the whole field at once.
 > cross-cutting attachers — they usually **modulate** another feeling (bracing it,
 > coloring it, grounding it) and can be **dominant** when the beat is about that
 > thing itself. Their attacher side is summarized in [`body/`](body/CONTEXT_GRAPH.md).
+>
+> **Tie-breaker (Held-Tension-dominant vs. feeling-dominant-with-HT-attached):** route
+> Held-Tension as *dominant* only when the beat's real subject is the **cost of the
+> composure** — the performance, the not-dropping, the seam where it leaks. If the beat is
+> about the *feeling underneath* and the composure is merely its condition, route the feeling
+> dominant and *attach* Held-Tension. (Funeral receiving-line = Held-Tension-dominant, the
+> beat IS the performance; someone crying alone who hears footsteps and stops = Grief-dominant,
+> Held-Tension attaching.)
 
 > **The roster is a living index.** Adding a family = add a folder in `families/`,
 > fill the [Spine template](SPINE_TEMPLATE.md), and add a row here.
@@ -107,18 +127,31 @@ are present, keep both; do not average them out.
 
 ## OUTPUT CONTRACT — the braid your agent assembles
 
-Return (in your own words, on your own surface):
+Return (in your own words, on your own surface). **Every field below is required — filling
+only the first two and the body is the shallow route that collapses the beat.**
 
 - **dominant** — the family in the lead, with its body
 - **under it** — ≤2 modulators, and the felt truth each adds
+- **the stack** — the descent under the surface (Step 0 / THE_FIELD §4): what the
+  dominant/lock is holding down, and — on any controlled/cold beat — the rage→fear→wound
+  beneath it. You route *from* this even though you render only the top.
+- **superposition** — if two opposing weights are both high (love⊗fear, grief⊗relief,
+  mercy⊗wanting), name the pair and **keep both at full charge; do not resolve them**
+  (THE_FIELD §3).
+- **sharpness read** — is the surface cold/controlled/precise? Then it is a *dense* state,
+  not a low one — route the full field under it, never call it "flat" or "suppressed and done"
+  (THE_FIELD §5).
 - **body** — where it lives; whether it's held (observed) or released (unobserved)
-- **4 AM truth** — what the subject would actually admit at 4 a.m., not the
-  performance version
-- **humor move** — the partner spine + the specific move, or *none*
-- **refuse** — the false notes (stock body, performance-emotion, cheap joke) each
-  map warns against
+- **4 AM truth** — what the subject would actually admit at 4 a.m., not the performance version
+- **humor move** — the partner spine + the specific move, or *none*. Run the `B(f)` check
+  (THE_FIELD §7a): if the wound is too hot for the container, humor fails the audit and
+  **silence is the honest move** (a deadpan surface can still hold, with no punchline firing).
+- **refuse** — the false notes (stock body, performance-emotion, cheap joke), **and the deep
+  one: never *announce* the mix** ("so many things were moving in her"). Render the field so
+  the reader can't reduce it; do not narrate that it's mixed (THE_FIELD §6).
 
-See [`examples/`](examples/BRAIDS.md) for the contract worked end to end.
+See [`examples/`](examples/BRAIDS.md) — the later examples work this full contract, stack and
+all, end to end.
 
 ---
 

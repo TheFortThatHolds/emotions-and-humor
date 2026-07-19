@@ -13,7 +13,11 @@ a one-line **illustration** clearly marked as *one possible surface* (do not cop
 your agent renders in its own voice).
 
 The set is chosen to cover the range: single-family, two-family, a kept tension, a
-body-forward route, a humor-carried route, quiet, and collective.
+body-forward route, a humor-carried route, quiet, and collective. **Examples 8–9 work the
+FULL field ([`THE_FIELD.md`](../THE_FIELD.md)): the stack traced under a cold surface all the
+way to the wound, opposing weights held at charge, the humor `B(f)`-checked, and the mix never
+announced. Study those for the deep route — the earlier ones show the braid skeleton; 8–9 show
+what a truly-looked-at beat requires.**
 
 ---
 
@@ -128,8 +132,88 @@ the break room goes still, then doesn't.
 
 ---
 
+## 8 — The full field: a cold surface (Held-Tension dense-stack)
+
+*This is the deep route. The trap: a shallow read collapses it to "grief, suppressed." The
+field read shows it's the densest state in the system.*
+
+**Beat:** A man at his father's funeral shakes every hand in the receiving line, thanks each
+person for coming, quietly corrects the caterer about the coffee order, and does not cry once.
+
+- **dominant:** **Held-Tension** — the beat *is* the cost of composure in a room he can't
+  leave (tie-breaker: HT-dominant, the beat IS the performance).
+- **under it:** Grief (the absence the whole performance is built over) · Anger (swallowed —
+  "held heat with nowhere to go," discharging onto the caterer because that's the only target
+  the lock permits).
+- **the stack:** control (the receiving line) → locks **rage** ("someone should get this
+  right"; the one man who would is in the box) → armor over **fear** ("if I stop moving I'll
+  have to feel it" — so he never stops: hand, hand, hand, coffee) → the **wound** (his father
+  is dead and whatever was unfinished is now permanently unfinished).
+- **superposition:** grief ⊗ anger at full charge — the pull toward collapse and the push
+  toward discharge, neither cancelling. *That* is the density.
+- **sharpness read:** **not** a low-emotion beat — the *densest* one: maximum opposing weight
+  under the tightest lock. The coffee correction is the pressure escaping the seams.
+- **body:** **held, and never released** — this beat contains no unobserved moment, so the
+  correct render has *no drop at all*; the clench runs the whole scene. The absence of release
+  is the point.
+- **4 AM truth:** "If I keep the line moving and the coffee right, I don't have to be the man
+  whose father just died. The second the last hand lets go, there's nothing left to correct."
+- **humor:** Deadpan — as *mask*, not a fired joke. `B(f)` check: the wound is bleeding today,
+  container ≈ 0 → the audit fails → **no punchline.** The flat, exact register (the coffee
+  correction) *is* the deadpan; zero jokes land.
+- **refuse:** performance-weeping (the beat already refuses it); stock body (locate it in the
+  handshake grip and the coffee correction, not "chest tightened"); any release while he's
+  observed (there is none here); and the deep one — **do not announce the mix.** No "so much
+  was moving in him." Let the coffee order carry the whole stack.
+
+*One surface:* "He shook the ninth hand, or the ninetieth. 'Thank you for coming.' To the man
+with the urn: 'It's decaf on the left. He'd have wanted the regular closer.' His hand was
+perfectly steady. It had been steady since the phone call, which was the thing no one would
+think to worry about."
+
+---
+
+## 9 — The full field: a superposition held (romance, the fold mechanics)
+
+*Shows opposing weights kept at charge and the humor `H = V × B(f) × ΔS` fold doing real work.*
+
+**Beat:** Two people who've been trading barbs all night; she names the careful distance he's
+been keeping, and the tease steps toward the real thing.
+
+- **dominant:** **Love** (desire), leaning — but never bare; the whole field is lit.
+- **under it:** Fear (of wanting, of being seen wanting and found not enough).
+- **the stack:** banter (the spine/lock) → holds down **fear-of-rejection** → armor over the
+  **wound** (last time I was seen this clearly it cost me).
+- **superposition:** **love ⊗ fear at full charge** — this *is* "romantic tension." Keep both;
+  **do not resolve it.** Resolving it is the kiss, and the kiss ends the beat.
+- **sharpness read:** the wit is *dense*, not light — the banter is bearing the fear. Flat-read
+  it as "flirting" and you lose the whole engine.
+- **body:** held — the calculated distance, the not-looking; the tell is the re-calculated
+  stance, the guard that only drops when he laughs.
+- **4 AM truth:** "I'd rather keep this exactly here — wanting you — than risk finding out."
+- **humor:** **Teasing** (Love's partner), and the fold fires: the tease is a **violation** (a
+  step toward the forbidden vulnerability), `B(f)` **passes** (the container's safe enough —
+  they trust each other now), `ΔS` calibrated (close to the real feeling, not random). The
+  laugh discharges a sip of fear **into connection** — that's the fold keeping love⊗fear
+  superposed. The "you too?" recognition is the deepest version.
+- **refuse:** banter with no fear under it (that's just quips — bearing nothing, so it falls
+  flat); resolving the superposition early (kills the tension); announcing it ("they were both
+  scared").
+
+*One surface:* "'You've recalculated that distance twice since I sat down.' He didn't step
+closer. He also didn't deny the math. And when he finally laughed — the real one, the one that
+got away from him — she saw the wanting and the flinch married in his face, and knew he saw it
+back in hers. Neither of them moved. The distance was still there. It was just no longer
+defensible."
+
+---
+
 ### The pattern to copy
 
-Every one of these: **route → ≤2 modulators → locate the body → decide humor by
-the partner edge → name the 4 AM truth → refuse the false notes.** That sequence
-is the whole skill. The words are ours and disposable; the sequence is yours.
+The earlier examples give the **braid skeleton**: route → ≤2 modulators → locate the body →
+decide humor by the partner edge → name the 4 AM truth → refuse the false notes. Examples 8–9
+give the **full field**: also **trace the stack to the wound** (route from it, render the top),
+**hold any superposition at charge** (don't resolve it), **read a cold surface as dense not
+empty**, **`B(f)`-check the humor** (too hot → silence), and **never announce the mix**. The
+skeleton keeps you coherent; the full field keeps you from collapsing a dense beat to one note.
+The words are ours and disposable; the sequence is yours.
