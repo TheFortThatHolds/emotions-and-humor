@@ -66,14 +66,20 @@ Control keeps the rage from being *seen*; the rage keeps the fear from being *fe
 the fear is the last thing before the wound. Read it as a directional edge — **"is a
 product of"** / **"is a defense against"** — not just co-presence. To route a
 character, trace the descent: what's on top, what it locks, what that's a product of,
-all the way down. The drama is the locks giving way **in order**.
+all the way down. The drama is the locks giving way **in order**. **Rungs are optional:** not
+every stack has a rage layer — the lock can sit directly on grief or fear with no anger in the
+column (a proud father holds grief, not rage). Skip an empty rung; never invent one to fill the
+template.
 
 ## 5. Sharpness, and the collapse law (the observation rule)
 
 **Sharpness** = how much *opposing* weight is held at once, over how *fragile* the
-lock. Cold, precise, controlled surfaces are not low-emotion. They are the **densest**
-states — the most weight, most opposition, held under the tightest lock. Heat flames;
-density goes cold and exact. The sharpness is the pressure escaping the seams.
+lock. Controlled surfaces are not low-emotion — **and not only the cold ones.** A flat
+"okay," a precise ledger, *and a beaming smile that will not drop* are all locks; a performed
+brightness held past its natural length is as dense as any cold mask. They are the **densest**
+states — the most weight, most opposition, held under the tightest lock. Heat flames; density
+goes cold *or bright* and exact. The sharpness is the pressure escaping the seams — the coffee
+correction, or the clap that's a shade too hard.
 
 **The collapse law:** a "pure emotion" is not a state that exists — it is the
 **artifact of not looking**. Look shallowly, or look away, and the field collapses onto

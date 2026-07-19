@@ -49,8 +49,11 @@ isn't joy; it's decoration.
 - **+ Relief:** the reprieve tipping over into gladness — relief brightening into delight
 
 ## Refuse
-- manic/hollow joy with nothing under it — brightness with no occasion, a grin
-  covering a void
+- manic/hollow joy with nothing under it — brightness with no occasion. **But note the
+  difference:** a bright surface *with something under it* — a grin covering a void, a smile
+  holding grief down — is NOT a false note to cut. It is a **dense held field to ROUTE** (see
+  the router's Step 0 / Held-Tension): the smile is the lock; trace the stack beneath it, don't
+  delete the smile
 - joy that denies the shadow — relief-joy pretending it was never scared, the win
   that erases the cost it took
 - saccharine — forced positivity, toxic cheer, joy performed instead of felt

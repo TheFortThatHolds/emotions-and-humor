@@ -38,6 +38,11 @@ performance together where every other muscle is already on display.
 ## Humor edge
 - partners: **Deadpan** — the dry face worn as the public mask, the even joke over the
   clench (the working-body one-liner that keeps the composure intact)
+- **the mask is not only the dry face.** It can be a *genuine emotion doing double duty as the
+  lock* — a real smile, real pride, real warmth — held past its natural length so the thing
+  underneath can't surface (the beaming father who will not stop clapping). When the lock is
+  made of a true feeling, that feeling is real AND it is the brace — route both, and locate the
+  cost in the seam (the smile held a beat too long, the clap a shade too hard)
 - otherwise humor is usually held too — the brace doesn't let the laugh all the way out
 
 ## Braids with (edges)

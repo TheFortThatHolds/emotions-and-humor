@@ -17,8 +17,9 @@ body-forward route, a humor-carried route, quiet, and collective. **Examples 8�
 FULL field ([`THE_FIELD.md`](../THE_FIELD.md)): the stack traced under a cold surface all the
 way to the wound, opposing weights held at charge, the humor `B(f)`-checked, and the mix never
 announced — #8 a cold dense-stack, #9 a held superposition (romance), #10 an ambivalent/severed
-loss (grief⊗relief). Study those for the deep route — the earlier ones show the braid skeleton;
-8–10 show what a truly-looked-at beat requires.**
+loss (grief⊗relief), #11 a **bright** controlled surface (the mask is a real smile). Study those
+for the deep route — the earlier ones show the braid skeleton; 8–11 show what a truly-looked-at
+beat requires, cold surfaces and bright ones alike.**
 
 ---
 
@@ -254,10 +255,57 @@ next one."
 
 ---
 
+## 11 — The full field: a BRIGHT controlled surface (the mask is a real smile)
+
+*The trap flips from Example 8: not "cold = empty" but "bright = happy." A controlled surface
+is dense whether it reads cold **or cheerful** — and here the lock is made of a genuine emotion
+(real pride) doing double duty. Shallow read: "proud dad."*
+
+**Beat:** A father watches his daughter cross the graduation stage. He is beaming and clapping
+hard. He is also thinking about her mother, who didn't live to see this, and the second-mortgage
+letter in his jacket he's told no one about, and he does not stop clapping or smiling for a
+second.
+
+- **dominant:** **Held-Tension** (tie-breaker: the beat's subject is the *not-dropping* — "does
+  not stop clapping or smiling for a second"). **The mask here is a held smile** — the pride is
+  real *and* it is the lock (see held-tension's humor edge).
+- **under it:** **Joy** (the pride is earned — she crossed the stage) · **Grief** (her mother,
+  who should be in that seat). — the grief⊗joy braid, "the funeral that remembers the laugh."
+- **the stack:** the beaming / hard clapping / not-stopping (the lock, made of a *real* smile) →
+  holds the grief⊗joy collision → armor over **Fear** (the second-mortgage letter, the ruin he's
+  told no one) → the **wound** (this is the exact seat her mother should be in, and he can't even
+  hold onto the house they built it in — *you're not here to see her, and the home we made is
+  already gone*). **No rage rung** — he's angry at no one; skip it, don't invent one.
+- **superposition:** **joy ⊗ grief at full charge,** unresolved — pride and loss, neither
+  averaging to a wistful middle. That is the density.
+- **sharpness read:** the surface is **bright but controlled = dense, not happy.** The over-hard
+  clap and the smile held past its natural length are the pressure escaping the seams — the
+  bright analogue of Example 8's coffee correction.
+- **body:** held, and **never released** — a full auditorium, seated, observed; no unobserved
+  beat, so no drop at all. Locate it: the palms reddening from clapping, the smile held one beat
+  too long, the jacket he does not touch, the letter against his chest. Never "his chest swelled."
+- **4 AM truth:** "If I clap loud enough I get to be the proud father and not the man whose wife
+  should be in that seat and whose house is already gone. The second my hands stop, both of those
+  are true again."
+- **humor:** **none.** `B(f)` check: public, the wound (grief + hidden ruin) actively bleeding,
+  no shared-recognition container → audit fails → silence. The beaming smile *is* the mask (the
+  bright form of deadpan-as-mask); zero punchlines fire.
+- **refuse:** "he's just a proud dad" (the **bright collapse**); any tear leaking through (the
+  beat refuses it); stock body ("pride swelled in his chest"); a cheap ironic mortgage quip; and
+  never announce the mix ("joy and grief warred in him" is banned). Let the too-hard clapping and
+  the untouched letter carry the whole stack.
+
+*One surface:* "He clapped. He clapped for her the way you clap for someone you would die for,
+which was too hard, and he did not stop, and he did not stop smiling, and the letter in his
+jacket sat against his chest where her mother's hand used to, and he clapped through all of it,
+and his hands hurt, and he was glad they hurt, because it gave him something to do with them."
+
+---
+
 ### The pattern to copy
 
 The earlier examples give the **braid skeleton**: route → ≤2 modulators → locate the body →
-decide humor by the partner edge → name the 4 AM truth → refuse the false notes. Examples 8–9
+decide humor by the partner edge → name the 4 AM truth → refuse the false notes. Examples 8–11
 give the **full field**: also **trace the stack to the wound** (route from it, render the top),
 **hold any superposition at charge** (don't resolve it), **read a cold surface as dense not
 empty**, **`B(f)`-check the humor** (too hot → silence), and **never announce the mix**. The

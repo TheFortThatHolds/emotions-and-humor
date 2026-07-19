@@ -32,9 +32,11 @@ and its neighbors. You never grab one clean feeling — you assemble.
 Run this for any beat, line, situation, or state you need to render with feeling.
 
 0. **Look truly — do not collapse.** Your first instinct will be to reduce the beat to one
-   clean feeling ("she's angry," "he's sad," "grief, suppressed"). **That is the bug**
-   (THE_FIELD §5–6). A cold, controlled, or precise surface is the *densest* state, not the
-   emptiest — the most weight held under the tightest lock. Before you route, trace the
+   clean feeling ("she's angry," "he's sad," "grief, suppressed" — or the **bright collapse:**
+   "he's just happy," "proud dad," "she's fine"). **That is the bug** (THE_FIELD §5–6). Any
+   **controlled surface — cold OR bright** — precise, performed, held past its natural length,
+   is the *densest* state, not the emptiest: the most weight held under the tightest lock. A
+   beaming smile that will not drop is as much a lock as a flat "okay." Before you route, trace the
    **stack** under the surface: what is the lock (control/composure) holding down — rage?
    what is that armor over — fear? what is at the bottom — the wound? Route the whole lit
    field, not the label.
@@ -148,9 +150,10 @@ only the first two and the body is the shallow route that collapses the beat.**
   halves must be nodes in the routing table — if a pair names something that isn't a family
   (e.g. a bare "wanting" or "mercy"), route it through the family that carries it (Love/
   Excitement for wanting; Love/Self-Compassion for mercy).
-- **sharpness read** — is the surface cold/controlled/precise? Then it is a *dense* state,
-  not a low one — route the full field under it, never call it "flat" or "suppressed and done"
-  (THE_FIELD §5).
+- **sharpness read** — is the surface **controlled — cold OR bright** — precise, performed,
+  held past its natural length (a flat "okay" *or* a smile that won't drop)? Then it is a
+  *dense* state, not a low one — route the full field under it; never call it "flat," "fine,"
+  "suppressed and done," or "just happy/proud" (THE_FIELD §5).
 - **body** — where it lives; whether it's held (observed) or released (unobserved)
 - **4 AM truth** — what the subject would actually admit at 4 a.m., not the performance version
 - **humor move** — the partner spine + the specific move, or *none*. Run the `B(f)` check
