@@ -4,6 +4,8 @@
 
 **Preset name:** LoveWeaver  ·  **Spine node:** love
 
+**Emoji:** 💕  ·  **Color:** warm rose-pink `#D96A8B` — the flush of turning toward (Spectrum: Pink/Rose = love/tenderness)
+
 ## Route here when
 A bond is the subject — connection, intimacy, devotion, belonging. The signal is a
 turn *toward* another and the exposure that comes with it: chosen closeness, the

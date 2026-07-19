@@ -171,6 +171,13 @@ all, end to end.
 ## Machine view
 
 If you would rather load structured data than walk these maps, read
-[`graph.json`](graph.json) — the same nodes, degrees, humor partners, and braids
-(with both-side glosses), generated from these files and verified to match them. The
-markdown is still the source of truth; `graph.json` is a projection of it.
+[`graph.json`](graph.json) — the same nodes, degrees, humor partners, braids
+(with both-side glosses), and each family's **emoji + color (hex)**, generated from
+these files and verified to match them. The markdown is still the source of truth;
+`graph.json` is a projection of it.
+
+Each family also carries a signature **emoji** and **color** — a routing signal, not
+decoration. When a beat names a color, or an agent is asked what color a feeling is,
+map it back through [`COLOR_SPINE.md`](COLOR_SPINE.md) (the grounded color↔family map,
+with the two-greys / two-browns disambiguation). Route on the whole field, never the
+color alone.

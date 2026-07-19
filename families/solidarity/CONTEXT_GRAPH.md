@@ -4,6 +4,8 @@
 
 **Preset name:** RevolutionCraft  ·  **Spine node:** solidarity
 
+**Emoji:** ✊  ·  **Color:** earth brown `#6E4A2A` — grounded collective power, the working-class root (Spectrum: Brown = collective power/community/working-class solidarity)
+
 ## Route here when
 Power is collective — the "I" turning into "we," a private injury revealed as a
 shared one, systems named instead of selves blamed. The signal is the room turning

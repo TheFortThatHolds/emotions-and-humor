@@ -7,6 +7,9 @@
       "label": "Anger",
       "preset": "RedWitness",
       "humor": "Dark / Gallows",
+      "emoji": "\ud83d\udd25",
+      "color": "red",
+      "hex": "#C0392B",
       "category": "emotion",
       "degree": 5
     },
@@ -15,6 +18,9 @@
       "label": "Grief",
       "preset": "DeepCurrent",
       "humor": "Dark / Gallows",
+      "emoji": "\ud83d\udca7",
+      "color": "deep drained blue",
+      "hex": "#34506B",
       "category": "emotion",
       "degree": 9
     },
@@ -23,6 +29,9 @@
       "label": "Self-Compassion",
       "preset": "SelfCompassion",
       "humor": "Self-Deprecating",
+      "emoji": "\u2764\ufe0f",
+      "color": "rose warming to green",
+      "hex": "#86B49A",
       "category": "emotion",
       "degree": 3
     },
@@ -31,6 +40,9 @@
       "label": "Joy",
       "preset": "JoyKeeper",
       "humor": "Slapstick, Silly, Celebratory",
+      "emoji": "\ud83c\udf1f",
+      "color": "warm yellow going orange",
+      "hex": "#F4B43A",
       "category": "emotion",
       "degree": 7
     },
@@ -39,6 +51,9 @@
       "label": "Love",
       "preset": "LoveWeaver",
       "humor": "Teasing",
+      "emoji": "\ud83d\udc95",
+      "color": "warm rose-pink",
+      "hex": "#D96A8B",
       "category": "emotion",
       "degree": 5
     },
@@ -47,6 +62,9 @@
       "label": "Fear",
       "preset": "FearTender",
       "humor": "Nervous",
+      "emoji": "\ud83d\ude30",
+      "color": "black going anxious grey",
+      "hex": "#2B2B33",
       "category": "emotion",
       "degree": 8
     },
@@ -55,6 +73,9 @@
       "label": "Excitement",
       "preset": "ExcitementSpark",
       "humor": "Silly, Observational",
+      "emoji": "\u2728",
+      "color": "bright orange sparking to magenta",
+      "hex": "#F5793B",
       "category": "emotion",
       "degree": 3
     },
@@ -63,6 +84,9 @@
       "label": "Calm",
       "preset": "PeaceHolder",
       "humor": "Warm / Healing",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "color": "soft healing green",
+      "hex": "#4E9E7E",
       "category": "emotion",
       "degree": 4
     },
@@ -71,6 +95,9 @@
       "label": "Solidarity",
       "preset": "RevolutionCraft",
       "humor": "Banter",
+      "emoji": "\u270a",
+      "color": "earth brown",
+      "hex": "#6E4A2A",
       "category": "emotion",
       "degree": 3
     },
@@ -79,6 +106,9 @@
       "label": "Held-Tension",
       "preset": "ClenchKeeper",
       "humor": "Deadpan",
+      "emoji": "\ud83d\ude36",
+      "color": "white-knuckle grey",
+      "hex": "#8A8D91",
       "category": "dual",
       "degree": 4
     },
@@ -87,6 +117,9 @@
       "label": "Senses",
       "preset": "SpectrumKeeper",
       "humor": "Absurd / Surreal",
+      "emoji": "\ud83c\udf08",
+      "color": "the full spectrum",
+      "hex": "prism",
       "category": "dual",
       "degree": 3
     },
@@ -95,6 +128,9 @@
       "label": "Body-Awareness",
       "preset": "Yoga / EmberGuide",
       "humor": "Warm / Healing",
+      "emoji": "\ud83e\uddd8",
+      "color": "grounded earth brown",
+      "hex": "#8A6D4B",
       "category": "dual",
       "degree": 3
     },
@@ -103,6 +139,9 @@
       "label": "Relief",
       "preset": "\u2014 (added to the basis 2026-07-19; not one of the original SongCraft nine)",
       "humor": "Nervous, Warm",
+      "emoji": "\ud83c\udf2c\ufe0f",
+      "color": "grey going gold",
+      "hex": "#B8A46A",
       "category": "emotion",
       "degree": 3
     }

@@ -4,6 +4,8 @@
 
 **Preset name:** SpectrumKeeper  ·  **Spine node:** senses
 
+**Emoji:** 🌈  ·  **Color:** the full spectrum `prism` — the family that carries every other color (Spectrum: Rainbow/Prismatic = full-spectrum integration)
+
 > Also a cross-cutting **attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *modulates* another feeling by giving it a sensory/synesthetic signature, and can
 > be dominant in a beat that is *about* perception itself.

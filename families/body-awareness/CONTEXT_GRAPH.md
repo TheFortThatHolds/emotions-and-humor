@@ -4,6 +4,8 @@
 
 **Preset name:** Yoga / EmberGuide  ·  **Spine node:** body-awareness
 
+**Emoji:** 🧘  ·  **Color:** grounded earth brown `#8A6D4B` — the color of weight and contact, the body on the floor (Spectrum: Brown = grounding/earth; warmer/personal register vs. Solidarity's collective brown)
+
 > Also a cross-cutting **body attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *grounds another feeling in the body*; it can be dominant in a beat about returning
 > to the body.

@@ -4,6 +4,8 @@
 
 **Preset name:** ExcitementSpark  ·  **Spine node:** excitement
 
+**Emoji:** ✨  ·  **Color:** bright orange sparking to magenta `#F5793B` — pleasure and life-force leaning forward (Spectrum: Orange = pleasure/creativity, Magenta = desire/aliveness/life-force)
+
 ## Route here when
 The future is leaning in and the body already knows it. The signal is anticipation
 with charge — energy pointed forward, possibility opening, momentum building toward

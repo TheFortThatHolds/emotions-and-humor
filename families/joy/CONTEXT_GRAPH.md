@@ -4,6 +4,8 @@
 
 **Preset name:** JoyKeeper  ·  **Spine node:** joy
 
+**Emoji:** 🌟  ·  **Color:** warm yellow going orange `#F4B43A` — the room lit, the confident bright (Spectrum: Yellow = optimism/confidence, Orange = joy/pleasure; gold is reserved for the spiritual/higher-self register)
+
 ## Route here when
 Something good arrived and it's allowed to be felt — a celebration, an earned win,
 a moment of delight, an "oh!" of wonder. The signal is upward and bright: the win

@@ -4,6 +4,8 @@
 
 **Preset name:** PeaceHolder  ·  **Spine node:** calm
 
+**Emoji:** 🕊️  ·  **Color:** soft healing green `#4E9E7E` — the settled, balanced, even light (Spectrum: Green = peace/calm/balance/healing)
+
 ## Route here when
 The system has settled — equilibrium reached, the storm passed, the ground chosen.
 The signal is stillness with weight to it: contentment that isn't reaching for more,

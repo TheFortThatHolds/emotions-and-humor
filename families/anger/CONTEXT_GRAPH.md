@@ -4,6 +4,8 @@
 
 **Preset name:** RedWitness  ·  **Spine node:** anger
 
+**Emoji:** 🔥  ·  **Color:** red `#C0392B` — the hot flare; boundary, courage, heat (Spectrum: Red)
+
 ## Route here when
 Something was violated — a boundary, a person, a fairness. The signal is heat with
 a *target*: injustice named, a line crossed, protest rising. Not free-floating
