@@ -138,6 +138,53 @@ that isn't folding a real emotional weight**; pick the fold that matches the sta
 [partner edges](humor/CONTEXT_GRAPH.md)); and let the joke *hold* the weight, never
 cheapen or lighten it away.
 
+### 7a. The fold mechanics — `H = V × B(f) × ΔS`
+
+Humor is **fear transmuted**: the nervous system charges for a threat; the threat resolves
+safe; the charge has to discharge, and it discharges as laughter. The fold succeeds only when
+three things are true at once:
+
+- **V — violation.** A real break in the expected script. No break, no fold (`V = 0` →
+  boredom). In field terms, the violation is a step toward the thing the **lock forbids** —
+  the vulnerability, the named dread, the un-looked-at.
+- **B(f) — the benign audit = safety container ÷ active fear heat.** The fold passes only if
+  the container (physical + social + emotional + temporal safety) outweighs how hot the fear
+  still is. Wound still bleeding → `B → 0` → the charge discharges as **fear/offense, not
+  laughter** ("too soon"). The same line lands as a laugh or a slap depending only on the
+  container. *This is the computable form of "honor the weight": if `B(f) ≤ 0` for this heat,
+  the honest move is silence, not a joke.*
+- **ΔS — script-shift = distance × velocity of the swap.** Too close = weak; too far =
+  confusion; too slow = telegraphed; too fast = whiplash. Travel the right distance at the
+  right speed.
+
+**The fear→fold map** (the partner edges, read as fear-transmutation — the humor type is set
+by *which fear is under the lock*): existential/death → **gallows**; social/shame/exposure →
+**self-deprecating** & **recognition**; power/helplessness → **satire** (punch up); physical →
+**slapstick**; chaos/uncertainty → **absurd**; isolation → **recognition ("you too?")** — the
+deepest fold, because shared recognition *is* the safety container.
+
+### 7b. The two collapses (why the spine works)
+
+The punchline collapses the **prediction** superposition (threat-or-safe → the laugh),
+one-time and unrepeatable — which is why explaining a joke kills it: you cannot re-observe a
+collapsed state. But that *small* collapse is in service of the **big** field-superposition
+(§3) **not** collapsing: each laugh discharges a sip of fear so the opposing emotional weights
+can keep being held. **Humor is the spine because it performs controlled small collapses
+(laughs) to bear the one big non-collapsing weight.** When the spine can no longer fold, the
+field's superposition finally has to resolve — and *that* is the turn (the kiss, the
+breakdown, the confession). In a romance this is exact: banter is the fear-fold that keeps
+love⊗fear superposed, and the kiss is the moment the spine buckles.
+
+**Firing law (mechanized):** (1) name the fear under the lock → the fold type (fear→fold map);
+(2) check `B(f)` — safe enough for *this* heat? if not, silence; (3) set `ΔS` near enough to
+the real feeling to spark, not so far it's random; (4) land the violation and **STOP**
+(post-punchline words = 0; explaining re-observes the collapse and kills it); (5) punch up,
+target behavior not identity (punching down is the audit failing into cruelty).
+
+*Source: "HumorCraft: Complete Theory & Implementation" (the mechanism layer under the
+[HumorWeaver](humor/CONTEXT_GRAPH.md) spines) — archived in
+`fort-central-config/projects/songcraft/`.*
+
 ---
 
 *A pure emotion is a stack you haven't looked down, superposed with an opposite you
