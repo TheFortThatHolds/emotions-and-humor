@@ -30,9 +30,13 @@ own words, on its own surface.
 
 **There is no such thing as a pure emotion.** You never route to `anger`. You
 route to anger-under-grief, anger-braced, anger-cut-with-deadpan. So this ships
-**families as atoms** and teaches your agent to **assemble the braid live** — it
-does not (and cannot) pre-name every combination. It gives worked examples of the
+**families as a weighting basis** and teaches your agent to **assemble the braid live** —
+it does not (and cannot) pre-name every combination. It gives worked examples of the
 assembly instead. See [`examples/`](examples/).
+
+The model under this — families as weights not atoms, non-collapsing superposition of
+opposites, the causal stack, and why "pure" is just the artifact of not looking closely
+enough — is [`THE_FIELD.md`](THE_FIELD.md). Read it to understand *why* the router works.
 
 ---
 

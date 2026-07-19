@@ -16,6 +16,13 @@ There is no top tier of "pure" emotions above "lesser" modifiers. **Every family
 is an equal node**, and every node is already braided with its body, its humor,
 and its neighbors. You never grab one clean feeling — you assemble.
 
+> **Read [`THE_FIELD.md`](THE_FIELD.md) first if you want the model under all of this:**
+> the families are a *weighting basis*, not atoms; routing is setting weights over the
+> whole field (the same gate a voice-engine uses on register); opposing weights
+> superpose without cancelling; they stack in a causal lock; and a "pure emotion" is the
+> **collapse artifact of shallow looking** — look truly and the field doesn't collapse.
+> The law that falls out: route the field, never the note, and never *announce* the mix.
+
 ---
 
 ## THE PROCEDURE
