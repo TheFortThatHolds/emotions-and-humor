@@ -4,7 +4,7 @@
 
 **Preset name:** SpectrumKeeper  ·  **Spine node:** senses
 
-**Emoji:** 🌈  ·  **Color:** the full spectrum `prism` — the family that carries every other color (Spectrum: Rainbow/Prismatic = full-spectrum integration)
+**Emoji:** 🌈  ·  **Color:** the full spectrum `prism` — rainbow/iridescent, all colors at once, integration without collapse (SongCraft/ChromaScribe: prismatic/rainbow = multiplicity, “I am many and I am one”). *Support:* full-spectrum integration.
 
 **Somatic seat:** the whole sensorium at once — SpectrumKeeper's cross-sensory field, not one seat; the family that carries every other body-map (SongCraft: SpectrumKeeper). *Support:* full-system integration.
 

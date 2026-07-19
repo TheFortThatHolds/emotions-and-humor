@@ -4,7 +4,7 @@
 
 **Preset name:** FearTender  ·  **Spine node:** fear
 
-**Emoji:** 😰  ·  **Color:** black going anxious grey `#2B2B33` — deep-body dread (black) fraying to fog (grey) (Spectrum: Black = primal fear/TCM Water; Grey = anxiety)
+**Emoji:** 😰  ·  **Color:** storm grey `#6E727B` — anxiety and uncertainty, silver-grey where it sharpens to alertness (SongCraft/ChromaScribe: FearTender = grey/shadow). *Support:* black = primal dread (TCM Water/Kidneys).
 
 **Somatic seat:** stomach and chest, restless limbs — flutter and tightness, scattered; breath shallow, fast, high in the chest (SongCraft Emotion-Body Map). *Support:* TCM Kidneys (Water) / Root survival.
 

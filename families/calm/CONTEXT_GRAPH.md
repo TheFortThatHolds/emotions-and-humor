@@ -4,7 +4,7 @@
 
 **Preset name:** PeaceHolder  ·  **Spine node:** calm
 
-**Emoji:** 🕊️  ·  **Color:** soft healing green `#4E9E7E` — the settled, balanced, even light (Spectrum: Green = peace/calm/balance/healing)
+**Emoji:** 🕊️  ·  **Color:** forest-to-sage green `#4E9E7E` — deep peace easing to equilibrium and easy flow (SongCraft/ChromaScribe: PeaceHolder = green — forest/sage/spring). *Support:* Heart Chakra (green — balance).
 
 **Somatic seat:** the whole body soft, the breath easy — settled, nothing reaching for more (SongCraft Emotion-Body Map: Peace). *Support:* Heart Chakra (green — balance).
 

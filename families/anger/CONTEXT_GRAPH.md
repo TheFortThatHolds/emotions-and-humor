@@ -4,7 +4,7 @@
 
 **Preset name:** RedWitness  ·  **Spine node:** anger
 
-**Emoji:** 🔥  ·  **Color:** red `#C0392B` — the hot flare; boundary, courage, heat (Spectrum: Red)
+**Emoji:** 🔥  ·  **Color:** fire red `#C0392B` — crimson to scarlet: boundary, protection, heat (SongCraft/ChromaScribe: RedWitness = red — crimson/scarlet/blood/fire). *Support:* Root Chakra survival-anger.
 
 **Somatic seat:** chest, jaw, fists, shoulders, face — heat and pressure rising, wanting outward movement; breath short and held (SongCraft Emotion-Body Map). *Support:* Root Chakra survival-anger / TCM Liver (Wood).
 

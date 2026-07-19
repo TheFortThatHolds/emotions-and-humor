@@ -4,7 +4,7 @@
 
 **Preset name:** — (added to the basis 2026-07-19; not one of the original SongCraft nine)  ·  **Spine node:** relief
 
-**Emoji:** 🌬️  ·  **Color:** grey going gold `#B8A46A` — the held anxiety (grey) draining, warmth returning at the rim; the exhale (Spectrum: Grey = the anxiety lifting → Gold = the warmth of standing down)
+**Emoji:** 🌬️  ·  **Color:** grey going gold `#B8A46A` — the storm-grey of held fear draining, warmth returning at the rim; the exhale (SongCraft: the discharge of FearTender's grey → gold). *Support:* the held tension standing down.
 
 **Somatic seat:** the long exhale (longer out than in), shoulders coming down, legs unlocking — the discharge of held activation (SongCraft regulation protocol). *Support:* the held grey tension draining.
 

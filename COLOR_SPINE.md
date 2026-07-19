@@ -10,58 +10,70 @@ feeling," or where it sits in the body, or when a beat names a color or a body-r
 maps back to a family the same way a 4-AM-truth does. Color and body are two faces of one
 grounding: the hue a feeling wears and the place it seats converge.
 
-**The anchor is SongCraft's own map; the research is support.** The somatic seats and the
-nervous-system states come from SongCraft's Emotion-Body Map (the nine emotional families'
-somatic signatures — location, sensation, energy, breath, and polyvagal state — plus
-SomaticScribe's body-dictionary). The cross-cultural color↔emotion↔somatic **research**
-(≈88% agreement on core pairings; chakra / TCM maps) is cited as *corroboration* — it
-backs the SongCraft map up, it does not overrule it. The research isn't definitive; it's
-support. Every mapping is *anchored*, not absolute — a color or a body-signal can carry
-more than one feeling, and context decides (grey is anxiety **and** the fog of numb
-control; numbness is dorsal shutdown, **not** ventral calm; brown is collective power
-**and** personal grounding). Route on the whole field, never one signal alone.
+**The anchor is SongCraft's own maps; the research is support.** The colors come from
+**ChromaScribe** (SongCraft's emotional-color system — every voice family mapped to its
+color territory). The somatic seats and nervous-system states come from SongCraft's
+**Emotion-Body Map** (the nine families' somatic signatures — location, sensation, energy,
+breath, polyvagal state — plus **SomaticScribe's** body-dictionary). The cross-cultural
+color↔emotion↔somatic **research** (≈88% agreement on core pairings; chakra / TCM maps) is
+cited as *corroboration* — it backs SongCraft up, it does not overrule it. The research
+isn't definitive; it's support. Every mapping is *anchored*, not absolute — a color or a
+body-signal can carry more than one feeling, and context decides (grey is anxiety **and**
+the fog of numb control; numbness is dorsal shutdown, **not** ventral calm; brown is
+collective power **and** personal grounding). Route on the whole field, never one signal
+alone.
 
 ## The map
 
 Color, somatic seat, and nervous-system state are faces of one grounding: where a feeling
 shows up as color, where it seats in the body, and which polyvagal register it runs in all
-converge. The **body + NS columns are SongCraft's Emotion-Body Map**; the color hue draws
-on the color↔emotion research as support.
+converge. **Color = ChromaScribe. Body + NS = SongCraft's Emotion-Body Map.** Research is
+support.
 
-| Family | Emoji | Color | Hex | Somatic seat (SongCraft body-map) | Nervous system |
+| Family | Emoji | Color (ChromaScribe) | Hex | Somatic seat (SongCraft body-map) | Nervous system |
 |---|---|---|---|---|---|
-| anger | 🔥 | red | `#C0392B` | chest, jaw, fists, shoulders — heat/pressure rising, breath held | sympathetic (fight) |
-| grief | 💧 | deep drained blue | `#34506B` | throat + heart/chest, heavy limbs — weight/ache, sighs | dorsal (shutdown of loss) |
-| fear | 😰 | black going anxious grey | `#2B2B33` | stomach + chest, restless limbs — flutter/tight, shallow fast breath | sympathetic (flight) |
-| calm | 🕊️ | soft healing green | `#4E9E7E` | whole body soft, breath easy — settled | ventral (safe/social) |
-| joy | 🌟 | warm yellow → orange | `#F4B43A` | chest open, whole-body lightness — warmth expanding | ventral |
-| love | 💕 | warm rose-pink | `#D96A8B` | chest warm, hands reaching, face soft — flowing | ventral |
-| self-compassion | ❤️ | rose warming to green | `#86B49A` | chest softening, shoulders dropping, breath deepening — hand on heart | shame easing toward ventral |
-| solidarity | ✊ | earth brown | `#6E4A2A` | chest opening (not alone), strength in spine, breath deepening | sympathetic heat → ventral |
-| excitement | ✨ | orange → magenta | `#F5793B` | chest + restless limbs, animated — buzzing, alive, forward | sympathetic+ (toward) |
-| held-tension | 😶 | white-knuckle grey | `#8A8D91` | shoulders at ears, jaw clenched, belly tight — breath trapped | sympathetic held / freeze |
+| anger | 🔥 | fire red (crimson/scarlet) | `#C0392B` | chest, jaw, fists, shoulders — heat/pressure rising, breath held | sympathetic (fight) |
+| grief | 💧 | deep blue → violet (the unnamed blue-purple) | `#3D4C7A` | throat + heart/chest, heavy limbs — weight/ache, sighs | dorsal (shutdown of loss) |
+| fear | 😰 | storm grey | `#6E727B` | stomach + chest, restless limbs — flutter/tight, shallow fast breath | sympathetic (flight) |
+| calm | 🕊️ | forest-to-sage green | `#4E9E7E` | whole body soft, breath easy — settled | ventral (safe/social) |
+| joy | 🌟 | golden yellow | `#F5C542` | chest open, whole-body lightness — warmth expanding | ventral |
+| love | 💕 | warm rose / coral | `#D96A8B` | chest warm, hands reaching, face soft — flowing | ventral |
+| self-compassion | ❤️ | soft pink | `#F0A9C0` | chest softening, shoulders dropping, breath deepening — hand on heart | shame easing toward ventral |
+| solidarity | ✊ | earth brown (wood/clay) | `#6E4A2A` | chest opening (not alone), strength in spine, breath deepening | sympathetic heat → ventral |
+| excitement | ✨ | sunrise orange | `#F5793B` | chest + restless limbs, animated — buzzing, alive, forward | sympathetic+ (toward) |
+| held-tension | 😶 | white-knuckle chrome (the unnamed color) | `#C4C9D2` | shoulders at ears, jaw clenched, belly tight — breath trapped | sympathetic held / freeze |
 | senses | 🌈 | full spectrum (prism) | `prism` | the whole sensorium — reads every body-map, owns none | any (reads, doesn't own) |
 | body-awareness | 🧘 | grounded earth brown | `#8A6D4B` | whole body to the floor — feet down, breath tracked | ventral grounding |
 | relief | 🌬️ | grey → gold | `#B8A46A` | long exhale, shoulders down, legs unlocking — the discharge | sympathetic → ventral |
 
-**Grounding sources (color):** Red = anger/boundary/courage; Blue/white = grief (throat+chest,
-NOT grey); Black = primal fear (TCM Water/Kidneys), Grey = anxiety; Green = calm/balance/healing;
-Yellow/Orange = joy/optimism/pleasure; Pink/Rose = love/self-love; Brown = grounding + collective
-power; Orange/Magenta = desire/life-force; Grey = uncertainty/numbness/control; Rainbow = full-
-spectrum integration; Grey→Gold = anxiety draining to standing-down.
+**ChromaScribe territories (color anchor):** RedWitness = red (crimson/scarlet/blood/fire);
+DeepCurrent = blue/purple/indigo (the unnamed color between blue and purple); FearTender =
+grey/shadow (storm/silver/ash grey); PeaceHolder = green (forest/sage/spring); JoyKeeper =
+yellow/golden yellow; ExcitementSpark = warm/sunrise orange; LoveWeaver + SelfCompassion =
+pink/rose (rose/coral vs. soft pink); RevolutionCraft = brown/earth (clay/terracotta/wood);
+SpectrumKeeper = prismatic/rainbow (multiplicity); the **unnamed white/chrome** "mental-
+clarity" territory (held-tension). *Support (research):* Black = primal fear (TCM Water);
+Grey = anxiety; Magenta = desire/life-force (excitement's edge); green = healing
+(self-compassion's edge).
 
-## The two greys, the two browns
+## The shared bands (grey, brown) and the unnamed color
 
-The map deliberately reuses two hues, split by register — this is a feature of the map,
-not a collision:
+ChromaScribe reuses a hue across families when the feelings share a territory — a feature
+of the map, split by register, not a collision:
 
-- **Grey** is the anxiety/uncertainty/numbness band. **Fear** carries it as the fog past
-  the black of primal dread; **held-tension** carries it as the numb clench of control;
-  **relief** carries it as the weight that is *draining away*. Same grey, three positions
-  on the arc.
-- **Brown** is the grounding band. **Solidarity** carries it as *collective* grounding
-  (the working-class root); **body-awareness** carries it as *personal* grounding (the
-  body on the floor).
+- **Grey** is the fear/anxiety band. **Fear** (FearTender) *owns* it — storm grey,
+  anxiety and uncertainty. **Relief** is that same held grey *draining to gold* (the
+  discharge once the feared thing passes). One grey, two positions on the arc.
+- **Brown** is the grounding band. **Solidarity** (RevolutionCraft) carries it as
+  *collective* grounding (the working-class root, clay/wood); **body-awareness** carries
+  it as *personal* grounding (the body on the floor). Same earth, two scales.
+- **The unnamed color found its family.** ChromaScribe's #1 unmapped gap was a
+  white/silver/chrome "mental-clarity" territory — *holding contradictions, observer
+  consciousness, movement AND freezing, sharpness, precision.* That is **held-tension**
+  exactly: the composure-lock, the white-knuckle. And it is THE_FIELD's definition of
+  **sharpness** — opposing weights held under a fragile lock — arrived at independently
+  from the color side. So held-tension is no longer a second grey; it is the chrome of a
+  field held in superposition without collapsing. The gap is filled.
 
 ## The nervous-system layer (why numbness ≠ calm)
 

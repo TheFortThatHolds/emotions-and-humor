@@ -4,7 +4,7 @@
 
 **Preset name:** Yoga / EmberGuide  ·  **Spine node:** body-awareness
 
-**Emoji:** 🧘  ·  **Color:** grounded earth brown `#8A6D4B` — the color of weight and contact, the body on the floor (Spectrum: Brown = grounding/earth; warmer/personal register vs. Solidarity's collective brown)
+**Emoji:** 🧘  ·  **Color:** grounded earth brown `#8A6D4B` — earth and clay, the body's weight and contact (SongCraft/ChromaScribe: brown/earth = grounding; personal/warm register vs. Solidarity's collective brown). *Support:* Root / Earth grounding.
 
 **Somatic seat:** the whole body's weight returning to the floor — feet on the floor, the chair holding you, the breath tracked (SongCraft: BodyBridge / grounding protocol). *Support:* Root / Earth grounding (brown).
 

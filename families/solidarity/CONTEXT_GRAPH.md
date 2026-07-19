@@ -4,7 +4,7 @@
 
 **Preset name:** RevolutionCraft  ·  **Spine node:** solidarity
 
-**Emoji:** ✊  ·  **Color:** earth brown `#6E4A2A` — grounded collective power, the working-class root (Spectrum: Brown = collective power/community/working-class solidarity)
+**Emoji:** ✊  ·  **Color:** earth brown `#6E4A2A` — deep/wood brown, grounded collective power, the working-class root (SongCraft/ChromaScribe: RevolutionCraft = brown/earth — clay, terracotta, wood). *Support:* Earth Star / Root.
 
 **Somatic seat:** chest opening (not alone), strength in the spine (backed up), breath deepening (hope) — anger's heat (chest, jaw) resolving into shared ground (SongCraft Emotion-Body Map: revolutionary arc). *Support:* Earth Star / Root (brown, black).
 

@@ -4,7 +4,7 @@
 
 **Preset name:** JoyKeeper  ·  **Spine node:** joy
 
-**Emoji:** 🌟  ·  **Color:** warm yellow going orange `#F4B43A` — the room lit, the confident bright (Spectrum: Yellow = optimism/confidence, Orange = joy/pleasure; gold is reserved for the spiritual/higher-self register)
+**Emoji:** 🌟  ·  **Color:** golden yellow `#F5C542` — bright yellow laughter, sustained golden delight (SongCraft/ChromaScribe: JoyKeeper = yellow/golden yellow). *Support:* TCM Heart (Fire) / Solar Plexus.
 
 **Somatic seat:** chest open, face lit, whole-body lightness — warmth and light expanding; breath full, sometimes catching with delight (SongCraft Emotion-Body Map). *Support:* TCM Heart (Fire) / Solar Plexus glow.
 

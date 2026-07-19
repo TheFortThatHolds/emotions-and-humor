@@ -4,7 +4,7 @@
 
 **Preset name:** DeepCurrent  ·  **Spine node:** grief
 
-**Emoji:** 💧  ·  **Color:** deep drained blue `#34506B` — the throat and the chest's floor, where grief pools (Spectrum: Blue/white — NOT grey; grey is anxiety)
+**Emoji:** 💧  ·  **Color:** deep blue going violet `#3D4C7A` — the unnamed color between blue and purple; ocean-depth grief with time and memory in it (SongCraft/ChromaScribe: DeepCurrent = blue/purple/indigo). *Support:* Throat Chakra / TCM Lungs (grief = blue/white, not grey).
 
 **Somatic seat:** throat and heart/chest, heaviness in the limbs, behind the eyes — weight and ache; breath in sighs and caught breath (SongCraft Emotion-Body Map). *Support:* Throat Chakra (the unspoken) / TCM Lungs (Metal).
 
