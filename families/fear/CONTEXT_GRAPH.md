@@ -50,6 +50,7 @@ scared I am," or "I've been vigilant so long I don't know who I'd be if I put it
 - **+ Held-Tension:** dread held behind a calm, even face — the fear that can't show
 - **+ Senses:** the dark-hours palette — everything too-sharp, too-loud, too-close
 - **+ Body-Awareness:** breath as the regulation that lets courage happen
+- **+ Relief:** fear's discharge — the exhale the instant the feared thing passes
 
 ## Refuse
 - fear that's just cowardice-cliché — the cringing coward stock note; real fear moves

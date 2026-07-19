@@ -13,11 +13,12 @@ a one-line **illustration** clearly marked as *one possible surface* (do not cop
 your agent renders in its own voice).
 
 The set is chosen to cover the range: single-family, two-family, a kept tension, a
-body-forward route, a humor-carried route, quiet, and collective. **Examples 8–9 work the
+body-forward route, a humor-carried route, quiet, and collective. **Examples 8–10 work the
 FULL field ([`THE_FIELD.md`](../THE_FIELD.md)): the stack traced under a cold surface all the
 way to the wound, opposing weights held at charge, the humor `B(f)`-checked, and the mix never
-announced. Study those for the deep route — the earlier ones show the braid skeleton; 8–9 show
-what a truly-looked-at beat requires.**
+announced — #8 a cold dense-stack, #9 a held superposition (romance), #10 an ambivalent/severed
+loss (grief⊗relief). Study those for the deep route — the earlier ones show the braid skeleton;
+8–10 show what a truly-looked-at beat requires.**
 
 ---
 
@@ -205,6 +206,51 @@ closer. He also didn't deny the math. And when he finally laughed — the real o
 got away from him — she saw the wanting and the flinch married in his face, and knew he saw it
 back in hers. Neither of them moved. The distance was still there. It was just no longer
 defensible."
+
+---
+
+## 10 — The full field: an ambivalent loss (grief ⊗ relief on a severed bond)
+
+*The trap here is the opposite of Example 8: not "cold = empty," but "grief must be clean." A
+severed or dreaded loss carries relief and old anger co-charged with the grief — and the shallow
+read collapses it to either "grief" or "she's cold / doesn't care."*
+
+**Beat:** A woman answers the phone and is told her ex-husband has died. She says "okay," asks
+two practical questions about the arrangements, thanks the caller, hangs up, and goes back to
+loading the dishwasher.
+
+- **dominant:** **Grief**, leaning — but the loss is *the version of her life that had him in
+  it*, and the last chance for anything unfinished between them; not clean grief.
+- **under it:** **Relief** (the live wire — the fury, the fear, the possibility of being
+  re-wounded — now permanently dead) · **Anger** (the divorce residue).
+- **the stack:** the dishwasher / the "okay" (the lock) → holds the grief-relief collision +
+  old rage she can't afford with a fork in her hand → armor over **fear** (if she stops, she
+  has to know she's partly *relieved* a person is dead, and what that makes her) → the **wound**
+  (the marriage failed long before he did; now foreclosed forever).
+- **superposition:** **grief ⊗ relief at full charge** — the hard pair, held apart, not
+  averaged. She mourns a man she is also glad to be free of; neither cancels. *That* is the
+  density. (Route the relief half through [`families/relief`](../families/relief/CONTEXT_GRAPH.md)
+  — name its guilt, don't let it read as gladness.)
+- **sharpness read:** the "okay," the two crisp questions, the dishwasher are cold/precise =
+  the *densest* state. The practical questions are the pressure escaping the seams — the correct
+  thing to do so she doesn't have to be the woman whose ex just died.
+- **body:** the hands loading, the motion *continuing*; alone and unobserved yet **no release**
+  — grief and relief are locked against each other and freeze the drop. Locate it in the hands
+  and the "okay," never "chest tightened."
+- **4 AM truth:** "I couldn't tell if I'd cry because he's gone or because I'm finally not still
+  married to it, and I wasn't going to find out standing at the sink."
+- **humor:** **none.** `B(f)` check: the wound just landed, she's alone (no shared-recognition
+  container), heat high → the audit fails → silence. The flat "okay" is deadpan-as-mask; no
+  punchline fires.
+- **refuse:** "she felt nothing / she was cold" (the collapse — this is *density*, not numbness;
+  re-route to dense Grief with the release withheld); operatic weeping; stock body; rushing to
+  meaning; and never announce the mix ("conflicting feelings washed over her" is banned). Let
+  the dishwasher carry the whole stack.
+
+*One surface:* "'Okay,' she said. 'Is there a service, or —' She wrote the date on the back of
+an envelope. 'And who do I call about the ring.' She thanked him and hung up. There was a fork
+in her hand. She set it in the basket, tines down, the way she always did, and reached for the
+next one."
 
 ---
 

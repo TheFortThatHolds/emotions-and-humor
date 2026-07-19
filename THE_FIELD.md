@@ -31,7 +31,7 @@ If this feels familiar, it's because it is the **same gate** a strong voice-engi
 uses on register. One deep identity weights a library of registers — one dominant + ≤2
 modulators, weighted, present in every line — and never actually goes "pure" anything.
 
-> **the voice engine : its register library :: the emotional self : the 9 families.**
+> **the voice engine : its register library :: the emotional self : the family basis.**
 
 One gate, two substrates. The voice axis weights *how it sounds*; the emotion axis
 weights *what it feels*. Same law — dominant + modulators, weighted, never zero,

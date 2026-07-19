@@ -16,7 +16,7 @@
       "preset": "DeepCurrent",
       "humor": "Dark / Gallows",
       "category": "emotion",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "self-compassion",
@@ -32,7 +32,7 @@
       "preset": "JoyKeeper",
       "humor": "Slapstick, Silly, Celebratory",
       "category": "emotion",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "love",
@@ -48,7 +48,7 @@
       "preset": "FearTender",
       "humor": "Nervous",
       "category": "emotion",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "excitement",
@@ -96,6 +96,14 @@
       "preset": "Yoga / EmberGuide",
       "humor": "Warm / Healing",
       "category": "dual",
+      "degree": 3
+    },
+    {
+      "id": "relief",
+      "label": "Relief",
+      "preset": "\u2014 (added to the basis 2026-07-19; not one of the original SongCraft nine)",
+      "humor": "Nervous, Warm",
+      "category": "emotion",
       "degree": 3
     }
   ],
@@ -230,6 +238,14 @@
     },
     {
       "source": "fear",
+      "target": "relief",
+      "gloss": {
+        "fear": "fear's discharge \u2014 the exhale the instant the feared thing passes",
+        "relief": "fear's natural discharge \u2014 the exhale the instant the feared thing passes"
+      }
+    },
+    {
+      "source": "fear",
       "target": "self-compassion",
       "gloss": {
         "fear": "the gentleness that lets courage happen \u2014 kindness as the",
@@ -270,6 +286,14 @@
     },
     {
       "source": "grief",
+      "target": "relief",
+      "gloss": {
+        "grief": "the hard pair \u2014 mourning a weight that also freed you; guilty relief riding under the grief (a severed, ambivalent, or dreaded loss)",
+        "relief": "the hard pair \u2014 mourning a weight that was also a wound; relief a person or an"
+      }
+    },
+    {
+      "source": "grief",
       "target": "self-compassion",
       "gloss": {
         "grief": "self-kindness that holds the loss without rushing it to meaning",
@@ -298,6 +322,14 @@
       "gloss": {
         "joy": "shared delight \u2014 joy doubled by being witnessed, the held glance",
         "love": "shared delight \u2014 the laugh that's better because it's witnessed"
+      }
+    },
+    {
+      "source": "joy",
+      "target": "relief",
+      "gloss": {
+        "joy": "the reprieve tipping over into gladness \u2014 relief brightening into delight",
+        "relief": "the reprieve tipping over into gladness \u2014 relief brightening into delight"
       }
     },
     {

@@ -45,6 +45,7 @@ land," or "I'm afraid that if I stop hurting I'll lose the last of them."
 - **+ Calm:** the after — grief settling into the quiet that becomes bearable again
 - **+ Solidarity:** grief made collective — the room that mourns together
 - **+ Senses:** the specific gray the world drains to when someone is gone
+- **+ Relief:** the hard pair — mourning a weight that also freed you; guilty relief riding under the grief (a severed, ambivalent, or dreaded loss)
 
 ## Refuse
 - performance-grief — the operatic weeping that arrives before the reader has

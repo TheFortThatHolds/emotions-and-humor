@@ -27,6 +27,7 @@ the labels.
 | Held-Tension | ClenchKeeper |
 | Senses | SpectrumKeeper |
 | Body-Awareness | Yoga / EmberGuide |
+| Relief | — *(added to the basis 2026-07-19; no SongCraft-era name)* |
 
 ## Humor
 

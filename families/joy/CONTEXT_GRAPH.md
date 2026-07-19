@@ -46,6 +46,7 @@ isn't joy; it's decoration.
 - **+ Calm:** contentment tipping up into gladness — enough becoming delight
 - **+ Solidarity:** collective celebration — the win that belongs to the whole room
 - **+ Senses:** golden — bright overtones, the world lit warm
+- **+ Relief:** the reprieve tipping over into gladness — relief brightening into delight
 
 ## Refuse
 - manic/hollow joy with nothing under it — brightness with no occasion, a grin

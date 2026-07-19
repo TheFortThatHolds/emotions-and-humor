@@ -38,6 +38,11 @@ Run this for any beat, line, situation, or state you need to render with feeling
    **stack** under the surface: what is the lock (control/composure) holding down — rage?
    what is that armor over — fear? what is at the bottom — the wound? Route the whole lit
    field, not the label.
+   - **Numbness / shock is not Calm.** A flat, blank, going-through-the-motions surface (bad
+     news taken with an "okay," a task simply continued) is a **dense held field** — usually
+     **Grief** or **Fear** with the release *frozen* under the lock — never Calm and never an
+     empty beat. If a surface reads numb or dissociated, route it as that dense field with the
+     release withheld. (Calm's own map tells you to re-route numbness here — this is where.)
 1. **Find the dominant family.** Read the beat for its strongest felt territory.
    Open that map in [`families/`](families/). (Use the routing table below.)
 2. **Add modulators (≤2).** What else is present *under* the dominant? Open those
@@ -72,6 +77,7 @@ it means the ≤2 you render are visibly carrying the weight of the ones beneath
 | anticipation, energy, possibility, momentum | **Excitement** | [`families/excitement`](families/excitement/CONTEXT_GRAPH.md) |
 | calm, equilibrium, stillness, contentment | **Calm** | [`families/calm`](families/calm/CONTEXT_GRAPH.md) |
 | collective power, solidarity, systems, "we" | **Solidarity** | [`families/solidarity`](families/solidarity/CONTEXT_GRAPH.md) |
+| a held dread/pressure/threat lifting; the exhale; guilty relief | **Relief** | [`families/relief`](families/relief/CONTEXT_GRAPH.md) |
 | composure under pressure, the cost of holding it together | **Held-Tension** | [`families/held-tension`](families/held-tension/CONTEXT_GRAPH.md) |
 | the feeling has a color, texture, temperature; synesthesia | **Senses** | [`families/senses`](families/senses/CONTEXT_GRAPH.md) |
 | weight, breath, contact, coming back into the body | **Body-Awareness** | [`families/body-awareness`](families/body-awareness/CONTEXT_GRAPH.md) |
@@ -135,9 +141,13 @@ only the first two and the body is the shallow route that collapses the beat.**
 - **the stack** — the descent under the surface (Step 0 / THE_FIELD §4): what the
   dominant/lock is holding down, and — on any controlled/cold beat — the rage→fear→wound
   beneath it. You route *from* this even though you render only the top.
-- **superposition** — if two opposing weights are both high (love⊗fear, grief⊗relief,
-  mercy⊗wanting), name the pair and **keep both at full charge; do not resolve them**
-  (THE_FIELD §3).
+- **superposition** — if two opposing weights are both high, name the pair and **keep both at
+  full charge; do not resolve them** (THE_FIELD §3). Canonical routable pairs: **love⊗fear**
+  (romantic tension), **grief⊗relief** (an ambivalent/severed loss), **grief⊗joy** (the funeral
+  that remembers the laugh), **anger⊗self-compassion** (rage that won't become self-harm). Both
+  halves must be nodes in the routing table — if a pair names something that isn't a family
+  (e.g. a bare "wanting" or "mercy"), route it through the family that carries it (Love/
+  Excitement for wanting; Love/Self-Compassion for mercy).
 - **sharpness read** — is the surface cold/controlled/precise? Then it is a *dense* state,
   not a low one — route the full field under it, never call it "flat" or "suppressed and done"
   (THE_FIELD §5).

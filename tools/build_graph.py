@@ -19,7 +19,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FAM = os.path.join(ROOT, "families")
 
 NODES = ['anger','grief','self-compassion','joy','love','fear','excitement',
-         'calm','solidarity','held-tension','senses','body-awareness']
+         'calm','solidarity','held-tension','senses','body-awareness','relief']
 ALIAS = {n: n for n in NODES}
 ALIAS.update({'courage': 'fear', 'a chosen move': 'fear', 'chosen move': 'fear'})
 
