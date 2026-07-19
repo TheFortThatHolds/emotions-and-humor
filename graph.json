@@ -10,6 +10,7 @@
       "emoji": "\ud83d\udd25",
       "color": "red",
       "hex": "#C0392B",
+      "somatic": "jaw, fists, chest, and the liver-heat under the ribs \u2014 Root Chakra (survival-anger) / TCM Liver (Wood \u2014 frustration seeking a way out)",
       "category": "emotion",
       "degree": 5
     },
@@ -21,6 +22,7 @@
       "emoji": "\ud83d\udca7",
       "color": "deep drained blue",
       "hex": "#34506B",
+      "somatic": "the chest's floor and the throat, where tears and sobs gather \u2014 Throat Chakra (the unspoken, \u201ccan\u2019t speak\u201d) / TCM Lungs (Metal \u2014 grief)",
       "category": "emotion",
       "degree": 9
     },
@@ -32,6 +34,7 @@
       "emoji": "\u2764\ufe0f",
       "color": "rose warming to green",
       "hex": "#86B49A",
+      "somatic": "the heart turned inward \u2014 Heart Chakra (pink self-love + green healing)",
       "category": "emotion",
       "degree": 3
     },
@@ -43,6 +46,7 @@
       "emoji": "\ud83c\udf1f",
       "color": "warm yellow going orange",
       "hex": "#F4B43A",
+      "somatic": "full-body warmth, heart-centered and spilling outward \u2014 TCM Heart (Fire \u2014 joy) / Solar Plexus glow (yellow \u2014 confidence)",
       "category": "emotion",
       "degree": 7
     },
@@ -54,6 +58,7 @@
       "emoji": "\ud83d\udc95",
       "color": "warm rose-pink",
       "hex": "#D96A8B",
+      "somatic": "the chest opening toward another \u2014 Heart Chakra (pink \u2014 love, connection)",
       "category": "emotion",
       "degree": 5
     },
@@ -65,6 +70,7 @@
       "emoji": "\ud83d\ude30",
       "color": "black going anxious grey",
       "hex": "#2B2B33",
+      "somatic": "the gut (butterflies), the tight chest, the legs that want to run \u2014 TCM Kidneys (Water \u2014 primal fear/willpower) / Root survival",
       "category": "emotion",
       "degree": 8
     },
@@ -76,6 +82,7 @@
       "emoji": "\u2728",
       "color": "bright orange sparking to magenta",
       "hex": "#F5793B",
+      "somatic": "the lower belly, the sacral flush of wanting-forward \u2014 Sacral Chakra (orange \u2014 desire, creative flow) + magenta life-force",
       "category": "emotion",
       "degree": 3
     },
@@ -87,6 +94,7 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "color": "soft healing green",
       "hex": "#4E9E7E",
+      "somatic": "the heart, unclenched and open \u2014 Heart Chakra (green \u2014 balance, healing)",
       "category": "emotion",
       "degree": 4
     },
@@ -98,6 +106,7 @@
       "emoji": "\u270a",
       "color": "earth brown",
       "hex": "#6E4A2A",
+      "somatic": "the feet and the base, the shared ground under many \u2014 Earth Star / Root (brown, black \u2014 collective foundation, ancestral rooting)",
       "category": "emotion",
       "degree": 3
     },
@@ -109,6 +118,7 @@
       "emoji": "\ud83d\ude36",
       "color": "white-knuckle grey",
       "hex": "#8A8D91",
+      "somatic": "gut, chest, and throat held tight, and the deep pelvic-floor brace below \u2014 anxiety's scattered grey, clenched into control",
       "category": "dual",
       "degree": 4
     },
@@ -120,6 +130,7 @@
       "emoji": "\ud83c\udf08",
       "color": "the full spectrum",
       "hex": "prism",
+      "somatic": "the whole sensorium at once \u2014 full-system integration, not one seat (the family that carries every body-map)",
       "category": "dual",
       "degree": 3
     },
@@ -131,6 +142,7 @@
       "emoji": "\ud83e\uddd8",
       "color": "grounded earth brown",
       "hex": "#8A6D4B",
+      "somatic": "the whole body's weight returning to the floor \u2014 Root / Earth grounding (brown \u2014 contact, presence)",
       "category": "dual",
       "degree": 3
     },
@@ -142,6 +154,7 @@
       "emoji": "\ud83c\udf2c\ufe0f",
       "color": "grey going gold",
       "hex": "#B8A46A",
+      "somatic": "the breath let all the way out (lungs), the shoulders and legs unlocking \u2014 the held grey gut-tension discharging",
       "category": "emotion",
       "degree": 3
     }

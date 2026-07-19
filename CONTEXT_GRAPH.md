@@ -176,8 +176,9 @@ If you would rather load structured data than walk these maps, read
 these files and verified to match them. The markdown is still the source of truth;
 `graph.json` is a projection of it.
 
-Each family also carries a signature **emoji** and **color** — a routing signal, not
-decoration. When a beat names a color, or an agent is asked what color a feeling is,
-map it back through [`COLOR_SPINE.md`](COLOR_SPINE.md) (the grounded color↔family map,
-with the two-greys / two-browns disambiguation). Route on the whole field, never the
-color alone.
+Each family also carries a signature **emoji**, **color**, and **somatic seat** (where it
+lives in the body) — routing signals, not decoration. When a beat names a color or a
+body-region, or an agent is asked what color a feeling is or where it sits, map it back
+through [`COLOR_SPINE.md`](COLOR_SPINE.md) (the grounded color↔body↔family map, with the
+two-greys / two-browns disambiguation). Route on the whole field, never the color or the
+body-signal alone.

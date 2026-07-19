@@ -6,6 +6,8 @@
 
 **Emoji:** 🌬️  ·  **Color:** grey going gold `#B8A46A` — the held anxiety (grey) draining, warmth returning at the rim; the exhale (Spectrum: Grey = the anxiety lifting → Gold = the warmth of standing down)
 
+**Somatic seat:** the breath let all the way out (lungs), the shoulders and legs unlocking — the held grey gut-tension discharging
+
 ## Route here when
 A pressure, threat, or dread that was *held* finally lifts — the test comes back clear, the
 danger passes, the thing you braced for is over or dead. The signal is the **exhale**, the legs

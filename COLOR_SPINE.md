@@ -2,11 +2,13 @@
 
 # Color + Emoji Spine
 
-Every family carries a **signature emoji** and a **signature color** (with a hex anchor
-so the visualization renders the true hue). These are not decoration — the color is a
-*routing signal*. When an agent is asked "what color is this feeling," or when a beat
-names a color, the color maps back to a family the same way a body-signal or a 4-AM-truth
-does.
+Every family carries a **signature emoji**, a **signature color** (with a hex anchor so
+the visualization renders the true hue), and a **somatic seat** (where the feeling lives
+in the body). These are not decoration — they are *routing signals*. When an agent is
+asked "what color is this feeling," or where it sits in the body, or when a beat names a
+color or a body-region, it maps back to a family the same way a 4-AM-truth does. Color and
+body are two faces of one grounding: the hue a feeling wears and the place it seats
+converge.
 
 The colors are **grounded**, not invented. They come from cross-cultural
 color↔emotion↔somatic research (the strongest single findings: ~88% cross-cultural
@@ -17,21 +19,31 @@ personal grounding). Route on the whole field, never the color alone.
 
 ## The map
 
-| Family | Emoji | Color | Hex | Grounding |
+Color and somatic seat are two faces of the same grounding: where a feeling shows up as
+color and where it shows up in the body converge (chakra location and clinical body-mapping
+agree with remarkable consistency; TCM organ systems add a second valid layer).
+
+| Family | Emoji | Color | Hex | Somatic seat (chakra / TCM / clinical) |
 |---|---|---|---|---|
-| anger | 🔥 | red | `#C0392B` | Red = anger / boundary / courage / heat |
-| grief | 💧 | deep drained blue | `#34506B` | Blue/white = grief, seated in throat + chest (NOT grey) |
-| fear | 😰 | black going anxious grey | `#2B2B33` | Black = primal fear (TCM Water/Kidneys); Grey = anxiety |
-| calm | 🕊️ | soft healing green | `#4E9E7E` | Green = peace / calm / balance / healing |
-| joy | 🌟 | warm yellow → orange | `#F4B43A` | Yellow = optimism/confidence; Orange = joy/pleasure |
-| love | 💕 | warm rose-pink | `#D96A8B` | Pink/Rose = love / tenderness |
-| self-compassion | ❤️ | rose warming to green | `#86B49A` | Pink (self-love) + Green (compassion/healing) |
-| solidarity | ✊ | earth brown | `#6E4A2A` | Brown = collective power / community / working-class solidarity |
-| excitement | ✨ | orange → magenta | `#F5793B` | Orange = pleasure; Magenta = desire / aliveness / life-force |
-| held-tension | 😶 | white-knuckle grey | `#8A8D91` | Grey = uncertainty / numbness / the fog of control |
-| senses | 🌈 | full spectrum (prism) | `prism` | Rainbow/Prismatic = full-spectrum integration |
-| body-awareness | 🧘 | grounded earth brown | `#8A6D4B` | Brown = grounding / earth (warm/personal register) |
-| relief | 🌬️ | grey → gold | `#B8A46A` | Grey (anxiety) draining → Gold (standing down) |
+| anger | 🔥 | red | `#C0392B` | jaw, fists, chest, liver-heat — Root (survival-anger) / TCM Liver (Wood) |
+| grief | 💧 | deep drained blue | `#34506B` | chest floor + throat — Throat Chakra (the unspoken) / TCM Lungs (Metal) |
+| fear | 😰 | black going anxious grey | `#2B2B33` | gut (butterflies), tight chest, legs — TCM Kidneys (Water) / Root survival |
+| calm | 🕊️ | soft healing green | `#4E9E7E` | the heart unclenched — Heart Chakra (green — balance) |
+| joy | 🌟 | warm yellow → orange | `#F4B43A` | full-body warmth, heart-centered — TCM Heart (Fire) / Solar Plexus glow |
+| love | 💕 | warm rose-pink | `#D96A8B` | the chest opening toward another — Heart Chakra (pink) |
+| self-compassion | ❤️ | rose warming to green | `#86B49A` | the heart turned inward — Heart Chakra (pink self-love + green healing) |
+| solidarity | ✊ | earth brown | `#6E4A2A` | feet + base, the shared ground — Earth Star / Root (brown, black) |
+| excitement | ✨ | orange → magenta | `#F5793B` | lower belly, sacral flush — Sacral Chakra (orange) + magenta life-force |
+| held-tension | 😶 | white-knuckle grey | `#8A8D91` | gut/chest/throat tight + pelvic-floor brace — anxiety's grey, clenched |
+| senses | 🌈 | full spectrum (prism) | `prism` | the whole sensorium — full-system integration, not one seat |
+| body-awareness | 🧘 | grounded earth brown | `#8A6D4B` | the whole body to the floor — Root / Earth grounding (brown) |
+| relief | 🌬️ | grey → gold | `#B8A46A` | breath let all the way out (lungs), shoulders/legs unlocking |
+
+**Grounding sources (color):** Red = anger/boundary/courage; Blue/white = grief (throat+chest,
+NOT grey); Black = primal fear (TCM Water/Kidneys), Grey = anxiety; Green = calm/balance/healing;
+Yellow/Orange = joy/optimism/pleasure; Pink/Rose = love/self-love; Brown = grounding + collective
+power; Orange/Magenta = desire/life-force; Grey = uncertainty/numbness/control; Rainbow = full-
+spectrum integration; Grey→Gold = anxiety draining to standing-down.
 
 ## The two greys, the two browns
 
@@ -48,8 +60,9 @@ research, not a collision:
 
 ## For the machine view
 
-`tools/build_graph.py` parses each family's `**Emoji:**` / `**Color:**` line and carries
-the emoji, the descriptor, and the hex into `graph.json`. The force-directed picture in
-`viz/index.html` fills each node with its authoritative hue (senses gets a prism
-gradient; dual/body-attacher families get a teal ring). Edit a family map, re-run the
-builder, and the color layer updates everywhere at once — one source of truth.
+`tools/build_graph.py` parses each family's `**Emoji:**` / `**Color:**` / `**Somatic
+seat:**` lines and carries the emoji, the descriptor, the hex, and the somatic seat into
+`graph.json`. The force-directed picture in `viz/index.html` fills each node with its
+authoritative hue (senses gets a prism gradient; dual/body-attacher families get a teal
+ring) and shows the somatic seat in the detail panel. Edit a family map, re-run the
+builder, and the whole color+body layer updates at once — one source of truth.

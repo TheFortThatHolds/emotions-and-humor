@@ -6,6 +6,8 @@
 
 **Emoji:** 🕊️  ·  **Color:** soft healing green `#4E9E7E` — the settled, balanced, even light (Spectrum: Green = peace/calm/balance/healing)
 
+**Somatic seat:** the heart, unclenched and open — Heart Chakra (green — balance, healing)
+
 ## Route here when
 The system has settled — equilibrium reached, the storm passed, the ground chosen.
 The signal is stillness with weight to it: contentment that isn't reaching for more,

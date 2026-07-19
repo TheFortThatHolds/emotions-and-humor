@@ -6,6 +6,8 @@
 
 **Emoji:** 🔥  ·  **Color:** red `#C0392B` — the hot flare; boundary, courage, heat (Spectrum: Red)
 
+**Somatic seat:** jaw, fists, chest, and the liver-heat under the ribs — Root Chakra (survival-anger) / TCM Liver (Wood — frustration seeking a way out)
+
 ## Route here when
 Something was violated — a boundary, a person, a fairness. The signal is heat with
 a *target*: injustice named, a line crossed, protest rising. Not free-floating
