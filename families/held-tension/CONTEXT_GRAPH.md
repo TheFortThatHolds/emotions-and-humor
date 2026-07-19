@@ -4,6 +4,12 @@
 
 **Preset name:** ClenchKeeper  ·  **Spine node:** held-tension
 
+**Emoji:** 😶  ·  **Color:** white-knuckle chrome `#C4C9D2` — clear white with a metallic shimmer: the color of holding contradictions under a lock, observer consciousness, movement AND freezing at once (SongCraft/ChromaScribe: the “unnamed color” of mental-clarity/focus — the map's #1 unmapped gap; this family fills it). *Support:* grey = the numb clench.
+
+**Somatic seat:** shoulders at the ears (bracing), jaw clenched (words held back), belly tight (not safe), the breath trapped below the diaphragm (SongCraft / SomaticScribe body-dictionary). *Support:* anxiety's scattered grey, clenched into control.
+
+**Nervous system:** sympathetic held / freeze — braced, not discharging
+
 > Also a cross-cutting **body attacher** — see ../../body/CONTEXT_GRAPH.md. It can be
 > dominant (a beat about the cost of composure) OR braid into any *observed* feeling.
 

@@ -4,6 +4,12 @@
 
 **Preset name:** JoyKeeper  ·  **Spine node:** joy
 
+**Emoji:** 🌟  ·  **Color:** golden yellow `#F5C542` — bright yellow laughter, sustained golden delight (SongCraft/ChromaScribe: JoyKeeper = yellow/golden yellow). *Support:* TCM Heart (Fire) / Solar Plexus.
+
+**Somatic seat:** chest open, face lit, whole-body lightness — warmth and light expanding; breath full, sometimes catching with delight (SongCraft Emotion-Body Map). *Support:* TCM Heart (Fire) / Solar Plexus glow.
+
+**Nervous system:** ventral (safe/social) — expanding, bright
+
 ## Route here when
 Something good arrived and it's allowed to be felt — a celebration, an earned win,
 a moment of delight, an "oh!" of wonder. The signal is upward and bright: the win

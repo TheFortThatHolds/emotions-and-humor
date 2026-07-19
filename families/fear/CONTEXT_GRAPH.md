@@ -4,6 +4,12 @@
 
 **Preset name:** FearTender  ·  **Spine node:** fear
 
+**Emoji:** 😰  ·  **Color:** storm grey `#6E727B` — anxiety and uncertainty, silver-grey where it sharpens to alertness (SongCraft/ChromaScribe: FearTender = grey/shadow). *Support:* black = primal dread (TCM Water/Kidneys).
+
+**Somatic seat:** stomach and chest, restless limbs — flutter and tightness, scattered; breath shallow, fast, high in the chest (SongCraft Emotion-Body Map). *Support:* TCM Kidneys (Water) / Root survival.
+
+**Nervous system:** sympathetic (flight) — scattered, wanting to run
+
 ## Route here when
 Something ahead is threat, and the body knows it before the mind names it — anxiety,
 dread, the doorway you have to walk through anyway. The signal is activation aimed at

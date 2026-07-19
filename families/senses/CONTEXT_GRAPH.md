@@ -4,6 +4,12 @@
 
 **Preset name:** SpectrumKeeper  ·  **Spine node:** senses
 
+**Emoji:** 🌈  ·  **Color:** the full spectrum `prism` — rainbow/iridescent, all colors at once, integration without collapse (SongCraft/ChromaScribe: prismatic/rainbow = multiplicity, “I am many and I am one”). *Support:* full-spectrum integration.
+
+**Somatic seat:** the whole sensorium at once — SpectrumKeeper's cross-sensory field, not one seat; the family that carries every other body-map (SongCraft: SpectrumKeeper). *Support:* full-system integration.
+
+**Nervous system:** any state — reads the body's signature, doesn't own one
+
 > Also a cross-cutting **attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *modulates* another feeling by giving it a sensory/synesthetic signature, and can
 > be dominant in a beat that is *about* perception itself.

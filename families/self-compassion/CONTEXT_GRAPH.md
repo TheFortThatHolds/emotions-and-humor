@@ -4,6 +4,12 @@
 
 **Preset name:** SelfCompassion  ·  **Spine node:** self-compassion
 
+**Emoji:** ❤️  ·  **Color:** soft pink `#F0A9C0` — self-tenderness, softness turned inward (SongCraft/ChromaScribe: SelfCompassion = soft pink — the pink/rose territory it shares with Love). *Support:* green = the healing edge (Heart Chakra).
+
+**Somatic seat:** the chest softening, shoulders dropping, breath deepening — the shift OUT of shame's stomach-drop and face-flush, back toward safety; a hand on the heart (SongCraft Emotion-Body Map: healing arc). *Support:* Heart Chakra (pink self-love + green healing).
+
+**Nervous system:** shame's mixed state (stomach/face, shrinking) easing toward ventral
+
 ## Route here when
 The attack is turned inward and something moves to soften it. The signal is a
 self-verdict loosening its grip — the harsh inner voice being answered instead of

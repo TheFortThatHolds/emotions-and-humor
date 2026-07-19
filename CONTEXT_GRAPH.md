@@ -171,6 +171,15 @@ all, end to end.
 ## Machine view
 
 If you would rather load structured data than walk these maps, read
-[`graph.json`](graph.json) — the same nodes, degrees, humor partners, and braids
-(with both-side glosses), generated from these files and verified to match them. The
-markdown is still the source of truth; `graph.json` is a projection of it.
+[`graph.json`](graph.json) — the same nodes, degrees, humor partners, braids
+(with both-side glosses), and each family's **emoji + color (hex)**, generated from
+these files and verified to match them. The markdown is still the source of truth;
+`graph.json` is a projection of it.
+
+Each family also carries a signature **emoji**, **color**, **somatic seat** (where it lives
+in the body), and **nervous-system state** (its polyvagal register) — routing signals, not
+decoration. When a beat names a color or a body-region, or reads flat/numb/"fine," map it
+back through [`COLOR_SPINE.md`](COLOR_SPINE.md) — SongCraft's Emotion-Body Map (research as
+support), with the two-greys / two-browns disambiguation and the polyvagal layer that keeps
+**numbness (dorsal shutdown) from being mistaken for calm (ventral)**. Route on the whole
+field, never one signal alone.

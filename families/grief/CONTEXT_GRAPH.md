@@ -4,6 +4,12 @@
 
 **Preset name:** DeepCurrent  ·  **Spine node:** grief
 
+**Emoji:** 💧  ·  **Color:** deep blue going violet `#3D4C7A` — the unnamed color between blue and purple; ocean-depth grief with time and memory in it (SongCraft/ChromaScribe: DeepCurrent = blue/purple/indigo). *Support:* Throat Chakra / TCM Lungs (grief = blue/white, not grey).
+
+**Somatic seat:** throat and heart/chest, heaviness in the limbs, behind the eyes — weight and ache; breath in sighs and caught breath (SongCraft Emotion-Body Map). *Support:* Throat Chakra (the unspoken) / TCM Lungs (Metal).
+
+**Nervous system:** dorsal (the shutdown of loss) — heavy, conserving
+
 ## Route here when
 Something is gone and isn't coming back — a person, a version of a life, a
 possibility. The signal is depth and undertow: absence with weight, the ordinary

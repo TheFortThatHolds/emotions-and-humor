@@ -68,8 +68,7 @@ HTML = r"""<!doctype html>
   .link.hi{stroke:var(--edge-hi);stroke-width:2.6}
   .link.dim{opacity:.18}
   .node circle{stroke:var(--stroke);stroke-width:2;cursor:pointer;transition:opacity .12s}
-  .node.emotion circle{fill:var(--emotion)}
-  .node.dual circle{fill:var(--dual)}
+  .node.dual circle{stroke:var(--dual);stroke-width:3.5}
   .node text{fill:var(--text);font-size:12px;pointer-events:none;
     paint-order:stroke;stroke:var(--panel);stroke-width:3px;stroke-linejoin:round}
   .node.hub text{font-weight:700;font-size:13px}
@@ -111,8 +110,8 @@ HTML = r"""<!doctype html>
   <div id="wrap">
     <svg id="g"></svg>
     <div class="legend">
-      <div class="row"><span class="dot" style="background:var(--emotion)"></span>emotion</div>
-      <div class="row"><span class="dot" style="background:var(--dual)"></span>dual (also a body attacher)</div>
+      <div class="row">node hue = the family's Spectrum color</div>
+      <div class="row"><span class="dot" style="background:transparent;border:3px solid var(--dual)"></span>teal ring = dual (also a body attacher)</div>
     </div>
   </div>
   <aside id="panel">
@@ -144,6 +143,16 @@ E.forEach(e=>{adj[e.a].add(e.b); adj[e.b].add(e.a);});
 const rad=n=>10+ (n.degree/maxDeg)*18;
 
 // ---- build SVG ----
+const defs=document.createElementNS(SVGNS,'defs'); svg.appendChild(defs);
+// prism gradient for the senses node (full-spectrum integration)
+const pg=document.createElementNS(SVGNS,'linearGradient');
+pg.setAttribute('id','prism'); pg.setAttribute('x1','0');pg.setAttribute('y1','0');
+pg.setAttribute('x2','1');pg.setAttribute('y2','1');
+['#e14b4b','#f4b43a','#4e9e7e','#3f7bd8','#8b5cf6'].forEach((c,i,arr)=>{
+  const st=document.createElementNS(SVGNS,'stop');
+  st.setAttribute('offset',(i/(arr.length-1)*100)+'%'); st.setAttribute('stop-color',c);
+  pg.appendChild(st);});
+defs.appendChild(pg);
 const gLink=document.createElementNS(SVGNS,'g'); svg.appendChild(gLink);
 const gNode=document.createElementNS(SVGNS,'g'); svg.appendChild(gNode);
 E.forEach(e=>{const l=document.createElementNS(SVGNS,'line');
@@ -156,7 +165,9 @@ E.forEach(e=>{const l=document.createElementNS(SVGNS,'line');
 N.forEach(n=>{const g=document.createElementNS(SVGNS,'g');
   g.setAttribute('class','node '+n.category+(n.degree>=6?' hub':''));
   const c=document.createElementNS(SVGNS,'circle'); c.setAttribute('r',rad(n));
-  const t=document.createElementNS(SVGNS,'text'); t.textContent=n.label;
+  c.setAttribute('fill', n.hex==='prism'?'url(#prism)':(n.hex||'var(--emotion)'));
+  const t=document.createElementNS(SVGNS,'text');
+  t.textContent=(n.emoji?n.emoji+' ':'')+n.label;
   t.setAttribute('text-anchor','middle'); t.setAttribute('dy',-rad(n)-6);
   g.appendChild(c); g.appendChild(t); n.el=g; n.circle=c; n.text=t; gNode.appendChild(g);
   g.addEventListener('mouseenter',()=>focus(n));
@@ -201,9 +212,13 @@ function details(n){
   let braids=E.filter(e=>e.a===n.id||e.b===n.id).map(e=>{
     const other=e.a===n.id?e.t:e.s, g=e.gloss[n.id];
     return '<p class="braid"><b>'+other.label+'</b> — '+g+'</p>';}).join('');
-  panel.innerHTML='<h2>'+n.label+'</h2><div class="preset">preset: '+(n.preset||'—')+
-    '</div><span class="chip">'+n.category+'</span><span class="chip">degree '+n.degree+
-    '</span>'+(n.humor?'<div class="lbl">humor partner</div>'+n.humor:'')+
+  const sw=n.hex==='prism'?'linear-gradient(135deg,#e14b4b,#f4b43a,#4e9e7e,#3f7bd8,#8b5cf6)':(n.hex||'#888');
+  panel.innerHTML='<h2>'+(n.emoji?n.emoji+' ':'')+n.label+'</h2><div class="preset">preset: '+(n.preset||'—')+
+    '</div><span class="chip"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:'+sw+';margin-right:5px;vertical-align:middle"></span>'+(n.color||'')+
+    '</span><span class="chip">'+n.category+'</span><span class="chip">degree '+n.degree+
+    '</span>'+(n.somatic?'<div class="lbl">somatic seat</div><p style="margin:0 0 6px">'+n.somatic.replace(/\*(.+?)\*/g,'<em>$1</em>')+'</p>':'')+
+    (n.ns?'<div class="lbl">nervous system</div><p style="margin:0 0 9px">'+n.ns+'</p>':'')+
+    (n.humor?'<div class="lbl">humor partner</div>'+n.humor:'')+
     '<div class="lbl">braids with</div>'+(braids||'<span class="empty">—</span>');
 }
 function addDrag(g,n){g.addEventListener('pointerdown',ev=>{drag=n; pinned=n;
@@ -248,6 +263,13 @@ for d in sorted(glob.glob(os.path.join(FAM, '*'))):
     txt = open(os.path.join(d, 'CONTEXT_GRAPH.md')).read()
     label = (re.search(r'^#\s*(.+?)\s*—\s*family map', txt, re.M) or [None, nid])[1]
     preset = (re.search(r'\*\*Preset name:\*\*\s*(.+?)\s*(?:·|\|)', txt) or [None, ''])[1].strip()
+    emoji = (re.search(r'\*\*Emoji:\*\*\s*(.+?)\s*(?:·|\|)', txt) or [None, ''])[1].strip()
+    color_line = (re.search(r'\*\*Color:\*\*\s*(.+)', txt) or [None, ''])[1]
+    color_desc = re.split(r'\s*`', color_line, 1)[0].strip()
+    htok = re.search(r'`(#[0-9A-Fa-f]{6}|prism)`', color_line)
+    hexval = htok.group(1) if htok else '#888888'
+    somatic = (re.search(r'\*\*Somatic seat:\*\*\s*(.+)', txt) or [None, ''])[1].strip()
+    ns = (re.search(r'\*\*Nervous system:\*\*\s*(.+)', txt) or [None, ''])[1].strip()
     humor = ''
     hm = re.search(r'partners:\s*(.*?)(?:\n- |\Z)', section(txt, 'Humor edge'), re.S)
     if hm:
@@ -265,6 +287,7 @@ for d in sorted(glob.glob(os.path.join(FAM, '*'))):
             if t and t != nid:
                 braids[t] = gloss
     nodes[nid] = dict(id=nid, label=label, preset=preset, humor=humor,
+                      emoji=emoji, color=color_desc, hex=hexval, somatic=somatic, ns=ns,
                       category='dual' if dual else 'emotion', braids=braids)
 
 for a in NODES:

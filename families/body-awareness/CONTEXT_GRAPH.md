@@ -4,6 +4,12 @@
 
 **Preset name:** Yoga / EmberGuide  ·  **Spine node:** body-awareness
 
+**Emoji:** 🧘  ·  **Color:** grounded earth brown `#8A6D4B` — earth and clay, the body's weight and contact (SongCraft/ChromaScribe: brown/earth = grounding; personal/warm register vs. Solidarity's collective brown). *Support:* Root / Earth grounding.
+
+**Somatic seat:** the whole body's weight returning to the floor — feet on the floor, the chair holding you, the breath tracked (SongCraft: BodyBridge / grounding protocol). *Support:* Root / Earth grounding (brown).
+
+**Nervous system:** ventral grounding — the return to the body
+
 > Also a cross-cutting **body attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *grounds another feeling in the body*; it can be dominant in a beat about returning
 > to the body.

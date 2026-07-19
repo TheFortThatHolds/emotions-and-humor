@@ -4,6 +4,12 @@
 
 **Preset name:** ExcitementSpark  ·  **Spine node:** excitement
 
+**Emoji:** ✨  ·  **Color:** sunrise orange `#F5793B` — warm orange building, the orange of new possibility leaning in (SongCraft/ChromaScribe: ExcitementSpark = warm/sunrise orange). *Support:* magenta = the desire/aliveness edge.
+
+**Somatic seat:** chest and restless limbs, animated face — buzzing and alive, forward; breath full, catching with anticipation (SongCraft Emotion-Body Map). *Support:* Sacral Chakra (orange) + magenta life-force.
+
+**Nervous system:** sympathetic+ (mobilized toward the wanted thing)
+
 ## Route here when
 The future is leaning in and the body already knows it. The signal is anticipation
 with charge — energy pointed forward, possibility opening, momentum building toward

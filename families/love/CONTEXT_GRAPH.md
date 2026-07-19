@@ -4,6 +4,12 @@
 
 **Preset name:** LoveWeaver  ·  **Spine node:** love
 
+**Emoji:** 💕  ·  **Color:** warm rose `#D96A8B` — rose and coral, the flush of turning toward, deep rose in devotion (SongCraft/ChromaScribe: LoveWeaver = rose/coral — the pink/rose territory it shares with Self-Compassion). *Support:* Heart Chakra (pink).
+
+**Somatic seat:** chest warm, hands reaching, face soft — warm and flowing; breath soft, open, sighs of relief (SongCraft Emotion-Body Map). *Support:* Heart Chakra (pink).
+
+**Nervous system:** ventral (safe/social) — flowing toward another
+
 ## Route here when
 A bond is the subject — connection, intimacy, devotion, belonging. The signal is a
 turn *toward* another and the exposure that comes with it: chosen closeness, the
