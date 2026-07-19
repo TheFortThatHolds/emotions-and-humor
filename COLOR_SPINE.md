@@ -2,6 +2,13 @@
 
 # Color + Emoji Spine
 
+> **One person's map.** These color / body / nervous-system anchors come from one lived
+> experience (SongCraft's ChromaScribe + Emotion-Body Map), corroborated — not proven
+> universal — by the research. Color↔emotion and body↔emotion mappings are cultural and
+> personal; the ~88% cross-cultural agreement leaves real variation. Use these as a
+> starting basis to re-tune, not a fixed truth. See the README's "One person's map, not
+> the map."
+
 Every family carries a **signature emoji**, a **signature color** (with a hex anchor so
 the visualization renders the true hue), a **somatic seat** (where the feeling lives in
 the body), and a **nervous-system state** (its polyvagal register). These are not

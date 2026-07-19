@@ -16,6 +16,15 @@ There is no top tier of "pure" emotions above "lesser" modifiers. **Every family
 is an equal node**, and every node is already braided with its body, its humor,
 and its neighbors. You never grab one clean feeling — you assemble.
 
+> **This is one person's map, not the map.** The families, colors, somatic seats, and
+> humor moves are built from a single lived experience (through the SongCraft
+> voice-family system) — not a comprehensive or universal taxonomy of feeling. Emotion
+> is cultural and personal: where it sits in the body, what color it wears, which
+> feelings braid, all vary. Treat this basis as *open* — re-weight, rename, split, or add
+> families for the human you're serving. And route *with* it as a discipline (look for the
+> depth); never use it to *diagnose* a real person what they feel. See the README's "One
+> person's map, not the map."
+
 > **[`THE_FIELD.md`](THE_FIELD.md) is REQUIRED reading — it is the model this procedure runs
 > on, not optional depth.** The families are a *weighting basis*, not atoms; routing is
 > setting weights over the whole field (the same gate a voice-engine uses on register);
