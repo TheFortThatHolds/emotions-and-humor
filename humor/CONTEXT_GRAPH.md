@@ -10,6 +10,13 @@ humor type that fights the routed feeling is betrayal by construction — gallow
 humor at the wake works; slapstick at the wake is a defect (unless a character is
 *choosing* it wrong, on purpose).
 
+> **Humor is the spine of the field — see [`THE_FIELD.md` §7](../THE_FIELD.md).** Not a
+> parallel axis; a *transform on the emotional field* — the load-bearing fold that lets a
+> compressed stack be carried without collapse or explosion, and a diagnostic you read the
+> stack off of. It **cannot work without the emotion**: a joke folding no real weight is a
+> spine with no body, which is why unrouted humor falls flat. The table below isn't "add a
+> joke" — it's "which fold matches the weight already there."
+
 **Selection law:** read the dominant family's humor edge, then pick that partner
 here. Plain word is canonical; the original name is the [preset skin](../presets/songcraft/README.md).
 

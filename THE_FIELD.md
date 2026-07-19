@@ -102,5 +102,45 @@ field decays to when no one pays real attention.
    holds a forced collapse (a pure they can stand on); the turn is the first true look,
    where the field refuses to collapse. That refusal-to-collapse is the payoff.
 
+## 7. Humor is the spine of the field (not a parallel axis)
+
+Humor is not a second system bolted beside the emotions. It is a **transform on the
+field** — and it is the *spine*, load-bearing and readable at once.
+
+**Load-bearing.** When the stack (§4) is compressed to the point of failing, there are
+only three exits: it **collapses** (breakdown), the **lock blows** (rage-out), or it
+**folds** — and the fold *is* humor. Gallows humor "makes the unbearable bearable"
+literally: it is the vertebra that lets a person carry a weight that would otherwise put
+them on the floor. That is why it is the spine — the structural element that bears the
+stack without collapse or explosion. A good dark joke doesn't lighten the weight; it
+*holds* it, one second, long enough to not go down.
+
+**Readable.** Because the fold takes the shape of what it folds, the humor **tells you
+the stack under it.** Read the [humor map](humor/CONTEXT_GRAPH.md) as a diagnostic of
+the field:
+
+| Humor | reveals the stack |
+|---|---|
+| **Deadpan** | rage cut cold and held (anger under a tight lock) |
+| **Dark / Gallows** | grief + rage compressed (the unbearable, being borne) |
+| **Nervous** | fear looking for a handle |
+| **Self-Deprecating** | shame turned into a shield |
+| **Teasing** | love that trusts enough to poke |
+| **Satire** | anger + solidarity aimed at a system |
+
+Tell me how someone jokes and I'll tell you what they're carrying.
+
+**Why it can't work without the emotion.** Humor is a *function of the field* — the
+fold of a real weight. No substrate, no fold: a spine with no body to hold up. That is
+the true reason unrouted humor falls flat — it isn't unfunny, it's **bearing nothing.**
+The weight is what makes the fold land. So the routing law extends: **never fire humor
+that isn't folding a real emotional weight**; pick the fold that matches the stack (the
+[partner edges](humor/CONTEXT_GRAPH.md)); and let the joke *hold* the weight, never
+cheapen or lighten it away.
+
+---
+
 *A pure emotion is a stack you haven't looked down, superposed with an opposite you
-declined to feel, collapsed by a glance you didn't hold. Look truly. Set the weights.*
+declined to feel, collapsed by a glance you didn't hold. And the humor is the spine that
+bears it — read it to find the stack, and never fire it over nothing. Look truly. Set
+the weights. Fold the weight, don't drop it.*
