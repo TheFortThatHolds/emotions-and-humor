@@ -6,7 +6,9 @@
 
 **Emoji:** 🌈  ·  **Color:** the full spectrum `prism` — the family that carries every other color (Spectrum: Rainbow/Prismatic = full-spectrum integration)
 
-**Somatic seat:** the whole sensorium at once — full-system integration, not one seat (the family that carries every body-map)
+**Somatic seat:** the whole sensorium at once — SpectrumKeeper's cross-sensory field, not one seat; the family that carries every other body-map (SongCraft: SpectrumKeeper). *Support:* full-system integration.
+
+**Nervous system:** any state — reads the body's signature, doesn't own one
 
 > Also a cross-cutting **attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *modulates* another feeling by giving it a sensory/synesthetic signature, and can

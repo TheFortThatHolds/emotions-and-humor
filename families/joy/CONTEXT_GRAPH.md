@@ -6,7 +6,9 @@
 
 **Emoji:** 🌟  ·  **Color:** warm yellow going orange `#F4B43A` — the room lit, the confident bright (Spectrum: Yellow = optimism/confidence, Orange = joy/pleasure; gold is reserved for the spiritual/higher-self register)
 
-**Somatic seat:** full-body warmth, heart-centered and spilling outward — TCM Heart (Fire — joy) / Solar Plexus glow (yellow — confidence)
+**Somatic seat:** chest open, face lit, whole-body lightness — warmth and light expanding; breath full, sometimes catching with delight (SongCraft Emotion-Body Map). *Support:* TCM Heart (Fire) / Solar Plexus glow.
+
+**Nervous system:** ventral (safe/social) — expanding, bright
 
 ## Route here when
 Something good arrived and it's allowed to be felt — a celebration, an earned win,

@@ -6,7 +6,9 @@
 
 **Emoji:** ✊  ·  **Color:** earth brown `#6E4A2A` — grounded collective power, the working-class root (Spectrum: Brown = collective power/community/working-class solidarity)
 
-**Somatic seat:** the feet and the base, the shared ground under many — Earth Star / Root (brown, black — collective foundation, ancestral rooting)
+**Somatic seat:** chest opening (not alone), strength in the spine (backed up), breath deepening (hope) — anger's heat (chest, jaw) resolving into shared ground (SongCraft Emotion-Body Map: revolutionary arc). *Support:* Earth Star / Root (brown, black).
+
+**Nervous system:** sympathetic heat resolving toward ventral (backed-up, collective)
 
 ## Route here when
 Power is collective — the "I" turning into "we," a private injury revealed as a

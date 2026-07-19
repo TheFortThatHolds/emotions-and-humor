@@ -6,7 +6,9 @@
 
 **Emoji:** ❤️  ·  **Color:** rose warming to green `#86B49A` — self-love (rose) turning to healing (green), softness turned inward (Spectrum: Pink = self-love + Green = compassion/healing)
 
-**Somatic seat:** the heart turned inward — Heart Chakra (pink self-love + green healing)
+**Somatic seat:** the chest softening, shoulders dropping, breath deepening — the shift OUT of shame's stomach-drop and face-flush, back toward safety; a hand on the heart (SongCraft Emotion-Body Map: healing arc). *Support:* Heart Chakra (pink self-love + green healing).
+
+**Nervous system:** shame's mixed state (stomach/face, shrinking) easing toward ventral
 
 ## Route here when
 The attack is turned inward and something moves to soften it. The signal is a

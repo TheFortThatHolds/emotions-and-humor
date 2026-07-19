@@ -6,7 +6,9 @@
 
 **Emoji:** 💧  ·  **Color:** deep drained blue `#34506B` — the throat and the chest's floor, where grief pools (Spectrum: Blue/white — NOT grey; grey is anxiety)
 
-**Somatic seat:** the chest's floor and the throat, where tears and sobs gather — Throat Chakra (the unspoken, “can’t speak”) / TCM Lungs (Metal — grief)
+**Somatic seat:** throat and heart/chest, heaviness in the limbs, behind the eyes — weight and ache; breath in sighs and caught breath (SongCraft Emotion-Body Map). *Support:* Throat Chakra (the unspoken) / TCM Lungs (Metal).
+
+**Nervous system:** dorsal (the shutdown of loss) — heavy, conserving
 
 ## Route here when
 Something is gone and isn't coming back — a person, a version of a life, a

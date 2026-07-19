@@ -6,7 +6,9 @@
 
 **Emoji:** ✨  ·  **Color:** bright orange sparking to magenta `#F5793B` — pleasure and life-force leaning forward (Spectrum: Orange = pleasure/creativity, Magenta = desire/aliveness/life-force)
 
-**Somatic seat:** the lower belly, the sacral flush of wanting-forward — Sacral Chakra (orange — desire, creative flow) + magenta life-force
+**Somatic seat:** chest and restless limbs, animated face — buzzing and alive, forward; breath full, catching with anticipation (SongCraft Emotion-Body Map). *Support:* Sacral Chakra (orange) + magenta life-force.
+
+**Nervous system:** sympathetic+ (mobilized toward the wanted thing)
 
 ## Route here when
 The future is leaning in and the body already knows it. The signal is anticipation

@@ -6,7 +6,9 @@
 
 **Emoji:** 💕  ·  **Color:** warm rose-pink `#D96A8B` — the flush of turning toward (Spectrum: Pink/Rose = love/tenderness)
 
-**Somatic seat:** the chest opening toward another — Heart Chakra (pink — love, connection)
+**Somatic seat:** chest warm, hands reaching, face soft — warm and flowing; breath soft, open, sighs of relief (SongCraft Emotion-Body Map). *Support:* Heart Chakra (pink).
+
+**Nervous system:** ventral (safe/social) — flowing toward another
 
 ## Route here when
 A bond is the subject — connection, intimacy, devotion, belonging. The signal is a

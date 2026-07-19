@@ -6,7 +6,9 @@
 
 **Emoji:** 😶  ·  **Color:** white-knuckle grey `#8A8D91` — the held breath, the numb clench (Spectrum: Grey = uncertainty/numbness/the fog of control — strongest clinical evidence)
 
-**Somatic seat:** gut, chest, and throat held tight, and the deep pelvic-floor brace below — anxiety's scattered grey, clenched into control
+**Somatic seat:** shoulders at the ears (bracing), jaw clenched (words held back), belly tight (not safe), the breath trapped below the diaphragm (SongCraft / SomaticScribe body-dictionary). *Support:* anxiety's scattered grey, clenched into control.
+
+**Nervous system:** sympathetic held / freeze — braced, not discharging
 
 > Also a cross-cutting **body attacher** — see ../../body/CONTEXT_GRAPH.md. It can be
 > dominant (a beat about the cost of composure) OR braid into any *observed* feeling.

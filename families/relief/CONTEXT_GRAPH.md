@@ -6,7 +6,9 @@
 
 **Emoji:** 🌬️  ·  **Color:** grey going gold `#B8A46A` — the held anxiety (grey) draining, warmth returning at the rim; the exhale (Spectrum: Grey = the anxiety lifting → Gold = the warmth of standing down)
 
-**Somatic seat:** the breath let all the way out (lungs), the shoulders and legs unlocking — the held grey gut-tension discharging
+**Somatic seat:** the long exhale (longer out than in), shoulders coming down, legs unlocking — the discharge of held activation (SongCraft regulation protocol). *Support:* the held grey tension draining.
+
+**Nervous system:** sympathetic → ventral — the system standing down
 
 ## Route here when
 A pressure, threat, or dread that was *held* finally lifts — the test comes back clear, the

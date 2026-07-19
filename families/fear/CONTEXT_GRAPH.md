@@ -6,7 +6,9 @@
 
 **Emoji:** 😰  ·  **Color:** black going anxious grey `#2B2B33` — deep-body dread (black) fraying to fog (grey) (Spectrum: Black = primal fear/TCM Water; Grey = anxiety)
 
-**Somatic seat:** the gut (butterflies), the tight chest, the legs that want to run — TCM Kidneys (Water — primal fear/willpower) / Root survival
+**Somatic seat:** stomach and chest, restless limbs — flutter and tightness, scattered; breath shallow, fast, high in the chest (SongCraft Emotion-Body Map). *Support:* TCM Kidneys (Water) / Root survival.
+
+**Nervous system:** sympathetic (flight) — scattered, wanting to run
 
 ## Route here when
 Something ahead is threat, and the body knows it before the mind names it — anxiety,

@@ -6,7 +6,9 @@
 
 **Emoji:** 🔥  ·  **Color:** red `#C0392B` — the hot flare; boundary, courage, heat (Spectrum: Red)
 
-**Somatic seat:** jaw, fists, chest, and the liver-heat under the ribs — Root Chakra (survival-anger) / TCM Liver (Wood — frustration seeking a way out)
+**Somatic seat:** chest, jaw, fists, shoulders, face — heat and pressure rising, wanting outward movement; breath short and held (SongCraft Emotion-Body Map). *Support:* Root Chakra survival-anger / TCM Liver (Wood).
+
+**Nervous system:** sympathetic (fight) — mobilized, pushing toward
 
 ## Route here when
 Something was violated — a boundary, a person, a fairness. The signal is heat with

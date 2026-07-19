@@ -216,7 +216,8 @@ function details(n){
   panel.innerHTML='<h2>'+(n.emoji?n.emoji+' ':'')+n.label+'</h2><div class="preset">preset: '+(n.preset||'—')+
     '</div><span class="chip"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:'+sw+';margin-right:5px;vertical-align:middle"></span>'+(n.color||'')+
     '</span><span class="chip">'+n.category+'</span><span class="chip">degree '+n.degree+
-    '</span>'+(n.somatic?'<div class="lbl">somatic seat</div><p style="margin:0 0 9px">'+n.somatic+'</p>':'')+
+    '</span>'+(n.somatic?'<div class="lbl">somatic seat</div><p style="margin:0 0 6px">'+n.somatic.replace(/\*(.+?)\*/g,'<em>$1</em>')+'</p>':'')+
+    (n.ns?'<div class="lbl">nervous system</div><p style="margin:0 0 9px">'+n.ns+'</p>':'')+
     (n.humor?'<div class="lbl">humor partner</div>'+n.humor:'')+
     '<div class="lbl">braids with</div>'+(braids||'<span class="empty">—</span>');
 }
@@ -268,6 +269,7 @@ for d in sorted(glob.glob(os.path.join(FAM, '*'))):
     htok = re.search(r'`(#[0-9A-Fa-f]{6}|prism)`', color_line)
     hexval = htok.group(1) if htok else '#888888'
     somatic = (re.search(r'\*\*Somatic seat:\*\*\s*(.+)', txt) or [None, ''])[1].strip()
+    ns = (re.search(r'\*\*Nervous system:\*\*\s*(.+)', txt) or [None, ''])[1].strip()
     humor = ''
     hm = re.search(r'partners:\s*(.*?)(?:\n- |\Z)', section(txt, 'Humor edge'), re.S)
     if hm:
@@ -285,7 +287,7 @@ for d in sorted(glob.glob(os.path.join(FAM, '*'))):
             if t and t != nid:
                 braids[t] = gloss
     nodes[nid] = dict(id=nid, label=label, preset=preset, humor=humor,
-                      emoji=emoji, color=color_desc, hex=hexval, somatic=somatic,
+                      emoji=emoji, color=color_desc, hex=hexval, somatic=somatic, ns=ns,
                       category='dual' if dual else 'emotion', braids=braids)
 
 for a in NODES:

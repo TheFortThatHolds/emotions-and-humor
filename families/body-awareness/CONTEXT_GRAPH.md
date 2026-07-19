@@ -6,7 +6,9 @@
 
 **Emoji:** 🧘  ·  **Color:** grounded earth brown `#8A6D4B` — the color of weight and contact, the body on the floor (Spectrum: Brown = grounding/earth; warmer/personal register vs. Solidarity's collective brown)
 
-**Somatic seat:** the whole body's weight returning to the floor — Root / Earth grounding (brown — contact, presence)
+**Somatic seat:** the whole body's weight returning to the floor — feet on the floor, the chair holding you, the breath tracked (SongCraft: BodyBridge / grounding protocol). *Support:* Root / Earth grounding (brown).
+
+**Nervous system:** ventral grounding — the return to the body
 
 > Also a cross-cutting **body attacher** — see ../../body/CONTEXT_GRAPH.md. It usually
 > *grounds another feeling in the body*; it can be dominant in a beat about returning
